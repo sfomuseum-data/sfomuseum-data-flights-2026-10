@@ -2,10 +2,12 @@
   "id": 2048485839,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-01",
+    "date:cessation_upper": "2026-10-01",
     "date:inception_lower": "2026-10-01",
     "date:inception_upper": "2026-10-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-01",
+    "edtf:cessation": "2026-10-01T04:16:07Z",
+    "edtf:inception": "2026-10-01T00:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158649505"
+    },
     "wof:country": "US",
     "wof:created": 1790957403,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -94,7 +99,7 @@
       1947304295,
       1159285043
     ],
-    "wof:lastmodified": 1790957403,
+    "wof:lastmodified": 1790957932,
     "wof:name": "AA2817 (SFO-ORD)",
     "wof:parent_id": 1947304295,
     "wof:placetype": "custom",
