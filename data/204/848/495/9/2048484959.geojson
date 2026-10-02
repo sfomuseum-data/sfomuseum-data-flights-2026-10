@@ -1,0 +1,72 @@
+{
+  "id": 2048484959,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-01",
+    "date:inception_upper": "2026-10-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-01",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-10-01",
+    "flysfo:estimated_timestamp": 1790847780,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA3934",
+    "flysfo:gate": "",
+    "flysfo:journey": "MEX-SFO",
+    "flysfo:scheduled_timestamp": 1790847780,
+    "flysfo:timestamp": 1790847780,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,19.431302,-99.080804,37.617990",
+    "geom:latitude": 28.524645999999997,
+    "geom:longitude": -110.7258735,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102536579,
+    "sfomuseum:flight_id": "20261001-A-UAL-3934",
+    "sfomuseum:flight_number": [
+      "UAL3934",
+      "UA3934"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1790957302,
+    "wof:geomhash": "4224d1c4c9907a232ddfbf90e60373e4",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048484959,
+        "flight_id": 2048484959
+      }
+    ],
+    "wof:id": 2048484959,
+    "wof:involves": [
+      102527513,
+      102536579,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1790957302,
+    "wof:name": "UA3934 (MEX-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    19.431302,
+    -99.080804,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-99.080804,19.431302],[-122.370943,37.61799]]}
+}
