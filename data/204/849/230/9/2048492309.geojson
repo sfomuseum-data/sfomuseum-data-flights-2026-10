@@ -1,0 +1,72 @@
+{
+  "id": 2048492309,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-02",
+    "date:inception_upper": "2026-10-02",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-02",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-10-02",
+    "flysfo:estimated_timestamp": 1790961720,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL385",
+    "flysfo:gate": "",
+    "flysfo:journey": "RDD-SFO",
+    "flysfo:scheduled_timestamp": 1790960880,
+    "flysfo:timestamp": 1790961720,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.298220,40.507596",
+    "geom:latitude": 39.062793,
+    "geom:longitude": -122.3345815,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527969,
+    "sfomuseum:flight_id": "20261002-A-DAL-385",
+    "sfomuseum:flight_number": [
+      "DAL385",
+      "DL385"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791043490,
+    "wof:geomhash": "dc56b2c846de1922adefc5feb6f75c92",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048492309,
+        "flight_id": 2048492309
+      }
+    ],
+    "wof:id": 2048492309,
+    "wof:involves": [
+      102527513,
+      102527969,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1791043490,
+    "wof:name": "DL385 (RDD-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -122.29822,
+    40.507596
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.29822,40.507596],[-122.370943,37.61799]]}
+}
