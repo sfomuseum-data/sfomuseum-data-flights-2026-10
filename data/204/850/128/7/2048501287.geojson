@@ -2,10 +2,12 @@
   "id": 2048501287,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-03",
-    "date:inception_upper": "2026-10-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-03",
+    "date:cessation_lower": "2026-10-03",
+    "date:cessation_upper": "2026-10-03",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-10-03T02:07:17-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-10-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528997,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N654DL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +91,13 @@
     ],
     "wof:id": 2048501287,
     "wof:involves": [
-      102527513,
       102528997,
       1159284261,
-      1947304265
+      1947304265,
+      1159289939,
+      102527513
     ],
-    "wof:lastmodified": 1791129890,
+    "wof:lastmodified": 1791130599,
     "wof:name": "DL8842 (SAN-SFO)",
     "wof:parent_id": 1947304265,
     "wof:placetype": "custom",
