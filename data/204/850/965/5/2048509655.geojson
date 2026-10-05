@@ -1,0 +1,72 @@
+{
+  "id": 2048509655,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-04",
+    "date:inception_upper": "2026-10-04",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-04",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-10-04",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL8845",
+    "flysfo:gate": "",
+    "flysfo:journey": "SMF-SFO",
+    "flysfo:scheduled_timestamp": 1791157140,
+    "flysfo:timestamp": 1791157140,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-121.589912,38.685533",
+    "geom:latitude": 38.1517615,
+    "geom:longitude": -121.98042749999999,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102530559,
+    "sfomuseum:flight_id": "20261004-A-DAL-8845",
+    "sfomuseum:flight_number": [
+      "DAL8845",
+      "DL8845"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791216317,
+    "wof:geomhash": "f5805f1be1c56ce2a2965880e252c65f",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048509655,
+        "flight_id": 2048509655
+      }
+    ],
+    "wof:id": 2048509655,
+    "wof:involves": [
+      102527513,
+      102530559,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1791216317,
+    "wof:name": "DL8845 (SMF-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -121.589912,
+    38.685533
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.589912,38.685533],[-122.370943,37.61799]]}
+}
