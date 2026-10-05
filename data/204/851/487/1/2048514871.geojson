@@ -2,10 +2,12 @@
   "id": 2048514871,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-10-04",
     "date:inception_upper": "2026-10-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-04",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-10-04T10:15:04-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LO",
     "flysfo:date": "2026-10-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 44.894602,
     "geom:longitude": -50.698282,
     "iata:airline": "LO",
+    "icao:aircraft": "B789",
     "icao:airline": "LOT",
     "lbl:latitude": 37.611747,
     "lbl:longitude": -122.39043,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159284705,
     "sfomuseum:arrival_id": 102542051,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "SPLSA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +91,13 @@
     ],
     "wof:id": 2048514871,
     "wof:involves": [
+      1159293215,
       102542051,
       102527513,
       1159284705,
       1947304083
     ],
-    "wof:lastmodified": 1791216915,
+    "wof:lastmodified": 1791217179,
     "wof:name": "LO36 (SFO-WAW)",
     "wof:parent_id": 1947304083,
     "wof:placetype": "custom",
