@@ -1,0 +1,72 @@
+{
+  "id": 2048521769,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-05",
+    "date:inception_upper": "2026-10-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2026-10-05",
+    "flysfo:estimated_timestamp": 1791239400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AA9832",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-DFW",
+    "flysfo:scheduled_timestamp": 1791239400,
+    "flysfo:timestamp": 1791239400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
+    "geom:latitude": 35.260825,
+    "geom:longitude": -109.7109545,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102528541,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261005-D-AAL-9832",
+    "sfomuseum:flight_number": [
+      "AAL9832",
+      "AA9832"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791303033,
+    "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048521769,
+        "flight_id": 2048521769
+      }
+    ],
+    "wof:id": 2048521769,
+    "wof:involves": [
+      102528541,
+      102527513,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1791303033,
+    "wof:name": "AA9832 (SFO-DFW)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    32.90366,
+    -97.050966,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]]}
+}
