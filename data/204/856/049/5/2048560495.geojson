@@ -1,0 +1,72 @@
+{
+  "id": 2048560495,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-09",
+    "date:inception_upper": "2026-10-09",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-09",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-10-09",
+    "flysfo:estimated_timestamp": 1791572400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA3797",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-SBN",
+    "flysfo:scheduled_timestamp": 1791572400,
+    "flysfo:timestamp": 1791572400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-86.312675,41.701381",
+    "geom:latitude": 39.659685499999995,
+    "geom:longitude": -104.341809,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102531095,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261009-D-UAL-3797",
+    "sfomuseum:flight_number": [
+      "UAL3797",
+      "UA3797"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791649008,
+    "wof:geomhash": "628a45346da0e6969e7f4ab3d55659bf",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048560495,
+        "flight_id": 2048560495
+      }
+    ],
+    "wof:id": 2048560495,
+    "wof:involves": [
+      102531095,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1791649008,
+    "wof:name": "UA3797 (SFO-SBN)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -86.312675,
+    41.701381
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-86.312675,41.701381]]}
+}
