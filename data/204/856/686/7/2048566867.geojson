@@ -1,0 +1,72 @@
+{
+  "id": 2048566867,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-10",
+    "date:inception_upper": "2026-10-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DE",
+    "flysfo:date": "2026-10-10",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DE2097",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-FRA",
+    "flysfo:scheduled_timestamp": 1791675000,
+    "flysfo:timestamp": 1791675000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,7.267284,49.945918",
+    "geom:latitude": 43.781954,
+    "geom:longitude": -57.5518295,
+    "iata:airline": "DE",
+    "icao:airline": "CFG",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284193,
+    "sfomuseum:arrival_id": 102549057,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261010-D-CFG-2097",
+    "sfomuseum:flight_number": [
+      "CFG2097",
+      "DE2097"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791735083,
+    "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048566867,
+        "flight_id": 2048566867
+      }
+    ],
+    "wof:id": 2048566867,
+    "wof:involves": [
+      102549057,
+      102527513,
+      1159284193,
+      -1
+    ],
+    "wof:lastmodified": 1791735083,
+    "wof:name": "DE2097 (SFO-FRA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    7.267284,
+    49.945918
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[7.267284,49.945918]]}
+}

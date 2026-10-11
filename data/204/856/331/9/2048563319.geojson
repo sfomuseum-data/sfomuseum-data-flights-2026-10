@@ -1,0 +1,78 @@
+{
+  "id": 2048563319,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-10",
+    "date:inception_upper": "2026-10-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "LH",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "5082",
+    "flysfo:date": "2026-10-10",
+    "flysfo:estimated_timestamp": 1791673200,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "LH9378",
+    "flysfo:gate": "",
+    "flysfo:journey": "LHR-SFO",
+    "flysfo:scheduled_timestamp": 1791673200,
+    "flysfo:timestamp": 1791673200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-0.450443,51.470087",
+    "geom:latitude": 44.5440385,
+    "geom:longitude": -61.410693,
+    "iata:airline": "LH",
+    "iata:base_airline": "",
+    "icao:airline": "DLH",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159286015,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20261010-A-ACA-5082",
+    "sfomuseum:departure_id": 102556703,
+    "sfomuseum:flight_id": "20261010-A-DLH-9378",
+    "sfomuseum:flight_number": [
+      "DLH9378",
+      "LH9378"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791734687,
+    "wof:geomhash": "c7bf5337358552a3a60caed0c1e9ea63",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048563319,
+        "flight_id": 2048563319
+      }
+    ],
+    "wof:id": 2048563319,
+    "wof:involves": [
+      102527513,
+      102556703,
+      1159286015,
+      -1,
+      1159283597
+    ],
+    "wof:lastmodified": 1791734687,
+    "wof:name": "LH9378 (LHR-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -0.450443,
+    51.470087
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]]}
+}

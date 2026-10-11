@@ -1,0 +1,78 @@
+{
+  "id": 2048566799,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-10",
+    "date:inception_upper": "2026-10-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "CA",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "4206",
+    "flysfo:date": "2026-10-10",
+    "flysfo:estimated_timestamp": 1791666900,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "CA7247",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-DFW",
+    "flysfo:scheduled_timestamp": 1791666900,
+    "flysfo:timestamp": 1791666900,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
+    "geom:latitude": 35.260825,
+    "geom:longitude": -109.7109545,
+    "iata:airline": "CA",
+    "iata:base_airline": "",
+    "icao:airline": "CCA",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283605,
+    "sfomuseum:arrival_id": 102528541,
+    "sfomuseum:base_flight_id": "20261010-D-ACA-4206",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261010-D-CCA-7247",
+    "sfomuseum:flight_number": [
+      "CCA7247",
+      "CA7247"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791735075,
+    "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048566799,
+        "flight_id": 2048566799
+      }
+    ],
+    "wof:id": 2048566799,
+    "wof:involves": [
+      102528541,
+      102527513,
+      1159283605,
+      -1,
+      1159283597
+    ],
+    "wof:lastmodified": 1791735075,
+    "wof:name": "CA7247 (SFO-DFW)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    32.90366,
+    -97.050966,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]]}
+}

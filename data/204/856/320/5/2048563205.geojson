@@ -1,0 +1,78 @@
+{
+  "id": 2048563205,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-10",
+    "date:inception_upper": "2026-10-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "LH",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "7689",
+    "flysfo:date": "2026-10-10",
+    "flysfo:estimated_timestamp": 1791671340,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "LH7689",
+    "flysfo:gate": "",
+    "flysfo:journey": "MRY-SFO",
+    "flysfo:scheduled_timestamp": 1791671340,
+    "flysfo:timestamp": 1791671340,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.587900,-121.839390,37.617990",
+    "geom:latitude": 37.102945,
+    "geom:longitude": -122.1051665,
+    "iata:airline": "LH",
+    "iata:base_airline": "",
+    "icao:airline": "DLH",
+    "icao:base_airline": "DLH",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159286015,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20261010-A-DLH-7689",
+    "sfomuseum:departure_id": 102525191,
+    "sfomuseum:flight_id": "20261010-A-DLH-7689",
+    "sfomuseum:flight_number": [
+      "DLH7689",
+      "LH7689"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791734674,
+    "wof:geomhash": "9156ee38a86542341666d641670fb814",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048563205,
+        "flight_id": 2048563205
+      }
+    ],
+    "wof:id": 2048563205,
+    "wof:involves": [
+      102527513,
+      102525191,
+      1159286015,
+      -1,
+      1159286015
+    ],
+    "wof:lastmodified": 1791734674,
+    "wof:name": "LH7689 (MRY-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    36.5879,
+    -121.83939,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.83939,36.5879],[-122.370943,37.61799]]}
+}

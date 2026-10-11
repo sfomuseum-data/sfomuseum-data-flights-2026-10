@@ -1,0 +1,72 @@
+{
+  "id": 2048568717,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-10",
+    "date:inception_upper": "2026-10-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-10-10",
+    "flysfo:estimated_timestamp": 1791646200,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA781",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-PWM",
+    "flysfo:scheduled_timestamp": 1791646200,
+    "flysfo:timestamp": 1791646200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-70.320898,43.645615",
+    "geom:latitude": 40.6318025,
+    "geom:longitude": -96.3459205,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102534331,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261010-D-UAL-781",
+    "sfomuseum:flight_number": [
+      "UAL781",
+      "UA781"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791735287,
+    "wof:geomhash": "a04b9112e1aca015bb66f7e03ba452fe",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048568717,
+        "flight_id": 2048568717
+      }
+    ],
+    "wof:id": 2048568717,
+    "wof:involves": [
+      102534331,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1791735287,
+    "wof:name": "UA781 (SFO-PWM)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -70.320898,
+    43.645615
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-70.320898,43.645615]]}
+}

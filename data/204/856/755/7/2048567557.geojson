@@ -1,0 +1,78 @@
+{
+  "id": 2048567557,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-10",
+    "date:inception_upper": "2026-10-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "KL",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "8717",
+    "flysfo:date": "2026-10-10",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "KL2313",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-CDG",
+    "flysfo:scheduled_timestamp": 1791669900,
+    "flysfo:timestamp": 1791669900,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,2.542809,49.007854",
+    "geom:latitude": 43.312922,
+    "geom:longitude": -59.914066999999996,
+    "iata:airline": "KL",
+    "iata:base_airline": "",
+    "icao:airline": "KLM",
+    "icao:base_airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284613,
+    "sfomuseum:arrival_id": 102544459,
+    "sfomuseum:base_flight_id": "20261010-D-DAL-8717",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261010-D-KLM-2313",
+    "sfomuseum:flight_number": [
+      "KLM2313",
+      "KL2313"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791735159,
+    "wof:geomhash": "ad7dd7ece479a882a3440fb19be6ff4c",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048567557,
+        "flight_id": 2048567557
+      }
+    ],
+    "wof:id": 2048567557,
+    "wof:involves": [
+      102544459,
+      102527513,
+      1159284613,
+      -1,
+      1159284261
+    ],
+    "wof:lastmodified": 1791735159,
+    "wof:name": "KL2313 (SFO-CDG)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    2.542809,
+    49.007854
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[2.542809,49.007854]]}
+}

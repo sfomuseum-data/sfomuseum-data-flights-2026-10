@@ -1,0 +1,78 @@
+{
+  "id": 2048568101,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-10",
+    "date:inception_upper": "2026-10-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "EK",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "6371",
+    "flysfo:date": "2026-10-10",
+    "flysfo:estimated_timestamp": 1791682500,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "EK6371",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-OMA",
+    "flysfo:scheduled_timestamp": 1791682500,
+    "flysfo:timestamp": 1791682500,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-95.897601,41.301438",
+    "geom:latitude": 39.459714,
+    "geom:longitude": -109.134272,
+    "iata:airline": "EK",
+    "iata:base_airline": "",
+    "icao:airline": "UAE",
+    "icao:base_airline": "UAE",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284333,
+    "sfomuseum:arrival_id": 102524739,
+    "sfomuseum:base_flight_id": "20261010-D-UAE-6371",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261010-D-UAE-6371",
+    "sfomuseum:flight_number": [
+      "UAE6371",
+      "EK6371"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791735219,
+    "wof:geomhash": "b2b4de685cac2a2e83e7d43e9bbb14d9",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048568101,
+        "flight_id": 2048568101
+      }
+    ],
+    "wof:id": 2048568101,
+    "wof:involves": [
+      102524739,
+      102527513,
+      1159284333,
+      -1,
+      1159284333
+    ],
+    "wof:lastmodified": 1791735219,
+    "wof:name": "EK6371 (SFO-OMA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -95.897601,
+    41.301438
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-95.897601,41.301438]]}
+}
