@@ -2,10 +2,12 @@
   "id": 2048572947,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-12",
+    "date:cessation_upper": "2026-10-12",
     "date:inception_lower": "2026-10-11",
     "date:inception_upper": "2026-10-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-11",
+    "edtf:cessation": "2026-10-12T00:13:04Z",
+    "edtf:inception": "2026-10-11T23:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2026-10-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.861199,
     "geom:longitude": -119.808415,
     "iata:airline": "MX",
+    "icao:aircraft": "BCS3",
     "icao:airline": "MXY",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1763552131,
     "sfomuseum:arrival_id": 102530129,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N267BZ",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159592866"
+    },
     "wof:country": "US",
     "wof:created": 1791821272,
     "wof:geomhash": "b4d056e1d6e58dcf382167f77162f897",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048572947,
     "wof:involves": [
+      1813375783,
       102530129,
       102527513,
-      1763552131,
-      -1
+      1763552131
     ],
-    "wof:lastmodified": 1791821272,
+    "wof:lastmodified": 1791821492,
     "wof:name": "MX1066 (SFO-SBD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

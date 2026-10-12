@@ -2,10 +2,12 @@
   "id": 2048573537,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-11",
+    "date:cessation_upper": "2026-10-11",
     "date:inception_lower": "2026-10-11",
     "date:inception_upper": "2026-10-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-11",
+    "edtf:cessation": "2026-10-11T21:19:40Z",
+    "edtf:inception": "2026-10-11T20:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.2977885,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527733,
     "sfomuseum:base_flight_id": "20261011-D-ACA-4381",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N844UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159577049"
+    },
     "wof:country": "US",
     "wof:created": 1791821337,
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
@@ -51,13 +63,13 @@
     ],
     "wof:id": 2048573537,
     "wof:involves": [
-      102527733,
       102527513,
       1159285413,
-      -1,
-      1159283597
+      1159283597,
+      1159289407,
+      102527733
     ],
-    "wof:lastmodified": 1791821337,
+    "wof:lastmodified": 1791821499,
     "wof:name": "UA2364 (SFO-BOI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

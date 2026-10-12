@@ -2,10 +2,12 @@
   "id": 2048570897,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-11",
+    "date:cessation_upper": "2026-10-11",
     "date:inception_lower": "2026-10-11",
     "date:inception_upper": "2026-10-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-11",
+    "edtf:cessation": "2026-10-11T21:35:36Z",
+    "edtf:inception": "2026-10-11T20:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-10-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AA",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N936NN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159580746"
+    },
     "wof:country": "US",
     "wof:created": 1791821049,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048570897,
     "wof:involves": [
+      1159289871,
       102533795,
       102527513,
-      1159283849,
-      -1
+      1159283849
     ],
-    "wof:lastmodified": 1791821049,
+    "wof:lastmodified": 1791821436,
     "wof:name": "AA2072 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

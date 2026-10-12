@@ -2,10 +2,12 @@
   "id": 2048572477,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-11",
+    "date:cessation_upper": "2026-10-11",
     "date:inception_lower": "2026-10-11",
     "date:inception_upper": "2026-10-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-11",
+    "edtf:cessation": "2026-10-11T22:43:28Z",
+    "edtf:inception": "2026-10-11T21:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,7 +41,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159579927"
+    },
     "wof:country": "US",
     "wof:created": 1791821221,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -57,7 +65,7 @@
       -1,
       1159284613
     ],
-    "wof:lastmodified": 1791821221,
+    "wof:lastmodified": 1791821482,
     "wof:name": "DL902 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

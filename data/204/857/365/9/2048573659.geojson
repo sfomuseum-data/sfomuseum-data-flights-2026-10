@@ -2,10 +2,12 @@
   "id": 2048573659,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-11",
+    "date:cessation_upper": "2026-10-11",
     "date:inception_lower": "2026-10-11",
     "date:inception_upper": "2026-10-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-11",
+    "edtf:cessation": "2026-10-11T21:16:33Z",
+    "edtf:inception": "2026-10-11T20:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.4384925,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533591,
     "sfomuseum:base_flight_id": "20261011-D-ACA-4278",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N76503",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159576712"
+    },
     "wof:country": "US",
     "wof:created": 1791821351,
     "wof:geomhash": "e84c3ec216fbaf9440bbf99d412a1253",
@@ -51,13 +63,13 @@
     ],
     "wof:id": 2048573659,
     "wof:involves": [
+      1159283597,
+      1159289871,
       102533591,
       102527513,
-      1159285413,
-      -1,
-      1159283597
+      1159285413
     ],
-    "wof:lastmodified": 1791821351,
+    "wof:lastmodified": 1791821501,
     "wof:name": "UA342 (SFO-PSP)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

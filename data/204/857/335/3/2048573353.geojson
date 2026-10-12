@@ -2,10 +2,12 @@
   "id": 2048573353,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-11",
+    "date:cessation_upper": "2026-10-11",
     "date:inception_lower": "2026-10-11",
     "date:inception_upper": "2026-10-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-11",
+    "edtf:cessation": "2026-10-11T23:48:59Z",
+    "edtf:inception": "2026-10-11T21:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,7 +41,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159584675"
+    },
     "wof:country": "US",
     "wof:created": 1791821318,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -57,7 +65,7 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1791821318,
+    "wof:lastmodified": 1791821497,
     "wof:name": "UA1596 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

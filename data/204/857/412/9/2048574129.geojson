@@ -2,10 +2,12 @@
   "id": 2048574129,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-11",
+    "date:cessation_upper": "2026-10-11",
     "date:inception_lower": "2026-10-11",
     "date:inception_upper": "2026-10-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-11",
+    "edtf:cessation": "2026-10-11T22:57:27Z",
+    "edtf:inception": "2026-10-11T20:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:date": "2026-10-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 44.368758,
     "geom:longitude": -118.1959315,
     "iata:airline": "WS",
+    "icao:aircraft": "B738",
     "icao:airline": "WJA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285523,
     "sfomuseum:arrival_id": 102554947,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CFWIJ",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159577283"
+    },
     "wof:country": "US",
     "wof:created": 1791821405,
     "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048574129,
     "wof:involves": [
+      1159289871,
       102554947,
       102527513,
-      1159285523,
-      -1
+      1159285523
     ],
-    "wof:lastmodified": 1791821405,
+    "wof:lastmodified": 1791821505,
     "wof:name": "WS1503 (SFO-YYC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

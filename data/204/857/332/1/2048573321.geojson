@@ -2,10 +2,12 @@
   "id": 2048573321,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-12",
+    "date:cessation_upper": "2026-10-12",
     "date:inception_lower": "2026-10-11",
     "date:inception_upper": "2026-10-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-11",
+    "edtf:cessation": "2026-10-12T00:46:02Z",
+    "edtf:inception": "2026-10-11T19:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 31.70423,
     "geom:longitude": -101.3334745,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531023,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N27439",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159574335"
+    },
     "wof:country": "US",
     "wof:created": 1791821314,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048573321,
     "wof:involves": [
-      102531023,
-      102527513,
       1159285413,
-      -1
+      1528104577,
+      102531023,
+      102527513
     ],
-    "wof:lastmodified": 1791821314,
+    "wof:lastmodified": 1791821496,
     "wof:name": "UA1458 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

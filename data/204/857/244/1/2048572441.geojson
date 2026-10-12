@@ -2,10 +2,12 @@
   "id": 2048572441,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-12",
+    "date:cessation_upper": "2026-10-12",
     "date:inception_lower": "2026-10-11",
     "date:inception_upper": "2026-10-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-11",
+    "edtf:cessation": "2026-10-12T01:14:49Z",
+    "edtf:inception": "2026-10-11T21:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,7 +41,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159582956"
+    },
     "wof:country": "US",
     "wof:created": 1791821217,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -57,7 +65,7 @@
       -1,
       1159284625
     ],
-    "wof:lastmodified": 1791821217,
+    "wof:lastmodified": 1791821481,
     "wof:name": "DL531 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

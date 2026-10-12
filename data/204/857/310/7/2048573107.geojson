@@ -2,10 +2,12 @@
   "id": 2048573107,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-12",
+    "date:cessation_upper": "2026-10-12",
     "date:inception_lower": "2026-10-11",
     "date:inception_upper": "2026-10-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-11",
+    "edtf:cessation": "2026-10-12T00:37:49Z",
+    "edtf:inception": "2026-10-11T21:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-11",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159579174"
+    },
     "wof:country": "US",
     "wof:created": 1791821291,
     "wof:geomhash": "17371a5d27e54a99ca50752d2b6a5e79",
@@ -51,7 +59,7 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1791821291,
+    "wof:lastmodified": 1791821494,
     "wof:name": "WN232 (SFO-STL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048573701,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-11",
-    "date:inception_upper": "2026-10-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-11",
+    "date:cessation_lower": "2026-10-12",
+    "date:cessation_upper": "2026-10-12",
+    "date:inception_lower": "2026-10-12",
+    "date:inception_upper": "2026-10-12",
+    "edtf:cessation": "2026-10-12T02:57:02Z",
+    "edtf:inception": "2026-10-12T01:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,7 +41,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159570959"
+    },
     "wof:country": "US",
     "wof:created": 1791821356,
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
@@ -57,7 +65,7 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1791821356,
+    "wof:lastmodified": 1791821502,
     "wof:name": "UA499 (SFO-BNA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
