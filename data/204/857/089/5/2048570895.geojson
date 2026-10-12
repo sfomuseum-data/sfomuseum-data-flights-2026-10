@@ -1,0 +1,72 @@
+{
+  "id": 2048570895,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-11",
+    "date:inception_upper": "2026-10-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2026-10-11",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AA1948",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-ORD",
+    "flysfo:scheduled_timestamp": 1791753480,
+    "flysfo:timestamp": 1791753480,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
+    "geom:latitude": 39.800514,
+    "geom:longitude": -105.1326535,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102533631,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261011-D-AAL-1948",
+    "sfomuseum:flight_number": [
+      "AAL1948",
+      "AA1948"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791821049,
+    "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048570895,
+        "flight_id": 2048570895
+      }
+    ],
+    "wof:id": 2048570895,
+    "wof:involves": [
+      102533631,
+      102527513,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1791821049,
+    "wof:name": "AA1948 (SFO-ORD)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -87.894364,
+    41.983038
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]]}
+}

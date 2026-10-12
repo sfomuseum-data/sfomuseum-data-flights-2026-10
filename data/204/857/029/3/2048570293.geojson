@@ -1,0 +1,72 @@
+{
+  "id": 2048570293,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-11",
+    "date:inception_upper": "2026-10-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "SK",
+    "flysfo:date": "2026-10-11",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "SK935",
+    "flysfo:gate": "",
+    "flysfo:journey": "CPH-SFO",
+    "flysfo:scheduled_timestamp": 1791754800,
+    "flysfo:timestamp": 1791754800,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,12.649581,55.627628",
+    "geom:latitude": 46.622809000000004,
+    "geom:longitude": -54.860681,
+    "iata:airline": "SK",
+    "icao:airline": "SAS",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285129,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102544207,
+    "sfomuseum:flight_id": "20261011-A-SAS-935",
+    "sfomuseum:flight_number": [
+      "SAS935",
+      "SK935"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791820979,
+    "wof:geomhash": "5ce04c0590c166d926aa7a8325b74dd4",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048570293,
+        "flight_id": 2048570293
+      }
+    ],
+    "wof:id": 2048570293,
+    "wof:involves": [
+      102527513,
+      102544207,
+      1159285129,
+      -1
+    ],
+    "wof:lastmodified": 1791820979,
+    "wof:name": "SK935 (CPH-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    12.649581,
+    55.627628
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[12.649581,55.627628],[-122.370943,37.61799]]}
+}

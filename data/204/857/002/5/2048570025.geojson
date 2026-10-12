@@ -1,0 +1,78 @@
+{
+  "id": 2048570025,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-11",
+    "date:inception_upper": "2026-10-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "LH",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "3185",
+    "flysfo:date": "2026-10-11",
+    "flysfo:estimated_timestamp": 1791743700,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "LH9415",
+    "flysfo:gate": "",
+    "flysfo:journey": "LAS-SFO",
+    "flysfo:scheduled_timestamp": 1791743700,
+    "flysfo:timestamp": 1791743700,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
+    "iata:airline": "LH",
+    "iata:base_airline": "",
+    "icao:airline": "DLH",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159286015,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20261011-A-ACA-3185",
+    "sfomuseum:departure_id": 102527209,
+    "sfomuseum:flight_id": "20261011-A-DLH-9415",
+    "sfomuseum:flight_number": [
+      "DLH9415",
+      "LH9415"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791820949,
+    "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048570025,
+        "flight_id": 2048570025
+      }
+    ],
+    "wof:id": 2048570025,
+    "wof:involves": [
+      102527513,
+      102527209,
+      1159286015,
+      -1,
+      1159283597
+    ],
+    "wof:lastmodified": 1791820949,
+    "wof:name": "LH9415 (LAS-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    36.081003,
+    -115.15644,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]]}
+}

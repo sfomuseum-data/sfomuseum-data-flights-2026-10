@@ -1,0 +1,78 @@
+{
+  "id": 2048569771,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-11",
+    "date:inception_upper": "2026-10-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "NZ",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "2267",
+    "flysfo:date": "2026-10-11",
+    "flysfo:estimated_timestamp": 1791728820,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "NZ9526",
+    "flysfo:gate": "",
+    "flysfo:journey": "MFR-SFO",
+    "flysfo:scheduled_timestamp": 1791728820,
+    "flysfo:timestamp": 1791728820,
+    "geom:area": 0,
+    "geom:bbox": "-122.874456,37.617990,-122.370943,42.369651",
+    "geom:latitude": 39.9938205,
+    "geom:longitude": -122.6226995,
+    "iata:airline": "NZ",
+    "iata:base_airline": "",
+    "icao:airline": "ANZ",
+    "icao:base_airline": "AVA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283697,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20261011-A-AVA-2267",
+    "sfomuseum:departure_id": 102527187,
+    "sfomuseum:flight_id": "20261011-A-ANZ-9526",
+    "sfomuseum:flight_number": [
+      "ANZ9526",
+      "NZ9526"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791820919,
+    "wof:geomhash": "10bf27aabb5200ef4863b11f6c2a5d60",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048569771,
+        "flight_id": 2048569771
+      }
+    ],
+    "wof:id": 2048569771,
+    "wof:involves": [
+      102527513,
+      102527187,
+      1159283697,
+      -1,
+      1159285749
+    ],
+    "wof:lastmodified": 1791820919,
+    "wof:name": "NZ9526 (MFR-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.874456,
+    37.61799,
+    -122.370943,
+    42.369651
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.874456,42.369651],[-122.370943,37.61799]]}
+}

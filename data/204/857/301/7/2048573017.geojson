@@ -1,0 +1,78 @@
+{
+  "id": 2048573017,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-11",
+    "date:inception_upper": "2026-10-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "QR",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "4280",
+    "flysfo:date": "2026-10-11",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "QR4280",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-KOA",
+    "flysfo:scheduled_timestamp": 1791727200,
+    "flysfo:timestamp": 1791727200,
+    "geom:area": 0,
+    "geom:bbox": "-156.035060,19.732444,-122.370943,37.617990",
+    "geom:latitude": 28.675217,
+    "geom:longitude": -139.2030015,
+    "iata:airline": "QR",
+    "iata:base_airline": "",
+    "icao:airline": "QTR",
+    "icao:base_airline": "QTR",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159286153,
+    "sfomuseum:arrival_id": 102532939,
+    "sfomuseum:base_flight_id": "20261011-D-QTR-4280",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261011-D-QTR-4280",
+    "sfomuseum:flight_number": [
+      "QTR4280",
+      "QR4280"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791821281,
+    "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048573017,
+        "flight_id": 2048573017
+      }
+    ],
+    "wof:id": 2048573017,
+    "wof:involves": [
+      102532939,
+      102527513,
+      1159286153,
+      -1,
+      1159286153
+    ],
+    "wof:lastmodified": 1791821281,
+    "wof:name": "QR4280 (SFO-KOA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -156.03506,
+    19.732444,
+    -122.370943,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-156.03506,19.732444]]}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 2048570069,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-11",
+    "date:inception_upper": "2026-10-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "FJ",
+    "flysfo:date": "2026-10-11",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "FJ870",
+    "flysfo:gate": "",
+    "flysfo:journey": "NAN-SFO",
+    "flysfo:scheduled_timestamp": 1791751200,
+    "flysfo:timestamp": 1791751200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,-17.806865,177.376360,37.617990",
+    "geom:latitude": 9.9055625,
+    "geom:longitude": 27.502708500000004,
+    "iata:airline": "FJ",
+    "icao:airline": "FJI",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283717,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102555575,
+    "sfomuseum:flight_id": "20261011-A-FJI-870",
+    "sfomuseum:flight_number": [
+      "FJI870",
+      "FJ870"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791820954,
+    "wof:geomhash": "b214b79a783c652f01bac93c835ba981",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048570069,
+        "flight_id": 2048570069
+      }
+    ],
+    "wof:id": 2048570069,
+    "wof:involves": [
+      102527513,
+      102555575,
+      1159283717,
+      -1
+    ],
+    "wof:lastmodified": 1791820954,
+    "wof:name": "FJ870 (NAN-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    -17.806865,
+    177.37636,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[177.37636,-17.806865],[-122.370943,37.61799]]}
+}

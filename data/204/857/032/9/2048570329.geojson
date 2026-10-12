@@ -1,0 +1,72 @@
+{
+  "id": 2048570329,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-11",
+    "date:inception_upper": "2026-10-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "WN",
+    "flysfo:date": "2026-10-11",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "WN4931",
+    "flysfo:gate": "",
+    "flysfo:journey": "STL-SFO",
+    "flysfo:scheduled_timestamp": 1791740700,
+    "flysfo:timestamp": 1791740700,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-90.367632,38.743872",
+    "geom:latitude": 38.180931,
+    "geom:longitude": -106.3692875,
+    "iata:airline": "WN",
+    "icao:airline": "SWA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 1746879059,
+    "sfomuseum:flight_id": "20261011-A-SWA-4931",
+    "sfomuseum:flight_number": [
+      "SWA4931",
+      "WN4931"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791820983,
+    "wof:geomhash": "5aed0915f9f8845326df52b0d348a4b7",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048570329,
+        "flight_id": 2048570329
+      }
+    ],
+    "wof:id": 2048570329,
+    "wof:involves": [
+      102527513,
+      1746879059,
+      1159285591,
+      -1
+    ],
+    "wof:lastmodified": 1791820983,
+    "wof:name": "WN4931 (STL-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -90.367632,
+    38.743872
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-90.367632,38.743872],[-122.370943,37.61799]]}
+}

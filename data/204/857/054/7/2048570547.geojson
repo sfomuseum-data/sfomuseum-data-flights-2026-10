@@ -1,0 +1,78 @@
+{
+  "id": 2048570547,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-11",
+    "date:inception_upper": "2026-10-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "9173",
+    "flysfo:date": "2026-10-11",
+    "flysfo:estimated_timestamp": 1791729240,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA335",
+    "flysfo:gate": "",
+    "flysfo:journey": "EUG-SFO",
+    "flysfo:scheduled_timestamp": 1791729240,
+    "flysfo:timestamp": 1791729240,
+    "geom:area": 0,
+    "geom:bbox": "-123.213030,37.617990,-122.370943,44.119058",
+    "geom:latitude": 40.868524,
+    "geom:longitude": -122.79198650000001,
+    "iata:airline": "UA",
+    "iata:base_airline": "",
+    "icao:airline": "UAL",
+    "icao:base_airline": "ANZ",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20261011-A-ANZ-9173",
+    "sfomuseum:departure_id": 102533927,
+    "sfomuseum:flight_id": "20261011-A-UAL-335",
+    "sfomuseum:flight_number": [
+      "UAL335",
+      "UA335"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791821009,
+    "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048570547,
+        "flight_id": 2048570547
+      }
+    ],
+    "wof:id": 2048570547,
+    "wof:involves": [
+      102527513,
+      102533927,
+      1159285413,
+      -1,
+      1159283697
+    ],
+    "wof:lastmodified": 1791821009,
+    "wof:name": "UA335 (EUG-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -123.21303,
+    37.61799,
+    -122.370943,
+    44.119058
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-123.21303,44.119058],[-122.370943,37.61799]]}
+}

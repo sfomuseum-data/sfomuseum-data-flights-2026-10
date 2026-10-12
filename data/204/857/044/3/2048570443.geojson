@@ -1,0 +1,72 @@
+{
+  "id": 2048570443,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-11",
+    "date:inception_upper": "2026-10-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-10-11",
+    "flysfo:estimated_timestamp": 1791743100,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA1786",
+    "flysfo:gate": "",
+    "flysfo:journey": "PWM-SFO",
+    "flysfo:scheduled_timestamp": 1791743100,
+    "flysfo:timestamp": 1791743100,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-70.320898,43.645615",
+    "geom:latitude": 40.6318025,
+    "geom:longitude": -96.3459205,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102534331,
+    "sfomuseum:flight_id": "20261011-A-UAL-1786",
+    "sfomuseum:flight_number": [
+      "UAL1786",
+      "UA1786"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791820997,
+    "wof:geomhash": "200f1287561f400a1477ba9e2daa3bd4",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048570443,
+        "flight_id": 2048570443
+      }
+    ],
+    "wof:id": 2048570443,
+    "wof:involves": [
+      102527513,
+      102534331,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1791820997,
+    "wof:name": "UA1786 (PWM-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -70.320898,
+    43.645615
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-70.320898,43.645615],[-122.370943,37.61799]]}
+}

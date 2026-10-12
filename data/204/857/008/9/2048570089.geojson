@@ -1,0 +1,72 @@
+{
+  "id": 2048570089,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-11",
+    "date:inception_upper": "2026-10-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "VN",
+    "flysfo:date": "2026-10-11",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "VN98",
+    "flysfo:gate": "",
+    "flysfo:journey": "SGN-SFO",
+    "flysfo:scheduled_timestamp": 1791766500,
+    "flysfo:timestamp": 1791766500,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,10.810137,106.663189,37.617990",
+    "geom:latitude": 24.214063499999998,
+    "geom:longitude": -7.853876999999997,
+    "iata:airline": "VN",
+    "icao:airline": "HVN",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285479,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102559025,
+    "sfomuseum:flight_id": "20261011-A-HVN-98",
+    "sfomuseum:flight_number": [
+      "HVN98",
+      "VN98"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791820956,
+    "wof:geomhash": "012961f8e0c3775359f771a39eab25cc",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048570089,
+        "flight_id": 2048570089
+      }
+    ],
+    "wof:id": 2048570089,
+    "wof:involves": [
+      102527513,
+      102559025,
+      1159285479,
+      -1
+    ],
+    "wof:lastmodified": 1791820956,
+    "wof:name": "VN98 (SGN-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    10.810137,
+    106.663189,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[106.663189,10.810137],[-122.370943,37.61799]]}
+}

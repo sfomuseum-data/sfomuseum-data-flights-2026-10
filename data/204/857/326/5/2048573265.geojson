@@ -1,0 +1,72 @@
+{
+  "id": 2048573265,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-11",
+    "date:inception_upper": "2026-10-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-10-11",
+    "flysfo:estimated_timestamp": 1791779400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA1160",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-CMH",
+    "flysfo:scheduled_timestamp": 1791779400,
+    "flysfo:timestamp": 1791779400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-82.885217,39.999443",
+    "geom:latitude": 38.8087165,
+    "geom:longitude": -102.62808,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102532255,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261011-D-UAL-1160",
+    "sfomuseum:flight_number": [
+      "UAL1160",
+      "UA1160"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791821309,
+    "wof:geomhash": "b3e3651b522d461c555c2feff400782a",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048573265,
+        "flight_id": 2048573265
+      }
+    ],
+    "wof:id": 2048573265,
+    "wof:involves": [
+      102532255,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1791821309,
+    "wof:name": "UA1160 (SFO-CMH)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -82.885217,
+    39.999443
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-82.885217,39.999443]]}
+}

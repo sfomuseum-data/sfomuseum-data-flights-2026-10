@@ -1,0 +1,72 @@
+{
+  "id": 2048573429,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-11",
+    "date:inception_upper": "2026-10-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-10-11",
+    "flysfo:estimated_timestamp": 1791704700,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA189",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-MNL",
+    "flysfo:scheduled_timestamp": 1791704700,
+    "flysfo:timestamp": 1791704700,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,14.517768,121.015152,37.617990",
+    "geom:latitude": 26.067878999999998,
+    "geom:longitude": -0.6778954999999982,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102553219,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261011-D-UAL-189",
+    "sfomuseum:flight_number": [
+      "UAL189",
+      "UA189"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1791821326,
+    "wof:geomhash": "d86898d5d90d953f6630362144c30ee0",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048573429,
+        "flight_id": 2048573429
+      }
+    ],
+    "wof:id": 2048573429,
+    "wof:involves": [
+      102553219,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1791821326,
+    "wof:name": "UA189 (SFO-MNL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    14.517768,
+    121.015152,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[121.015152,14.517768]]}
+}
