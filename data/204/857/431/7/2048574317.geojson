@@ -2,10 +2,12 @@
   "id": 2048574317,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-12",
+    "date:cessation_upper": "2026-10-12",
     "date:inception_lower": "2026-10-12",
     "date:inception_upper": "2026-10-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-12",
+    "edtf:cessation": "2026-10-12T10:25:40Z",
+    "edtf:inception": "2026-10-12T07:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-10-12",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159608777"
+    },
     "wof:country": "US",
     "wof:created": 1791907272,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -51,7 +59,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1791907272,
+    "wof:lastmodified": 1791907284,
     "wof:name": "DL2789 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
