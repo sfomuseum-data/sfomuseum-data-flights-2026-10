@@ -2,10 +2,12 @@
   "id": 2048581481,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-14",
+    "date:cessation_upper": "2026-10-14",
     "date:inception_lower": "2026-10-13",
     "date:inception_upper": "2026-10-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-13",
+    "edtf:cessation": "2026-10-14T10:31:13Z",
+    "edtf:inception": "2026-10-13T18:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-13",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159717813"
+    },
     "wof:country": "US",
     "wof:created": 1791994508,
     "wof:geomhash": "998e7b0d931c2ad5e41dcc1541aaab60",
@@ -88,7 +96,7 @@
       1159285413,
       1947304149
     ],
-    "wof:lastmodified": 1791994508,
+    "wof:lastmodified": 1791994739,
     "wof:name": "UA29 (SFO-SIN)",
     "wof:parent_id": 1947304149,
     "wof:placetype": "custom",

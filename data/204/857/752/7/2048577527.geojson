@@ -2,10 +2,12 @@
   "id": 2048577527,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-13",
+    "date:cessation_upper": "2026-10-13",
     "date:inception_lower": "2026-10-13",
     "date:inception_upper": "2026-10-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-13",
+    "edtf:cessation": "2026-10-13T17:38:26Z",
+    "edtf:inception": "2026-10-13T12:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159690469"
+    },
     "wof:country": "US",
     "wof:created": 1791994049,
     "wof:geomhash": "10c01f207ef95eecc919066d165ec5eb",
@@ -94,7 +102,7 @@
       1947304517,
       1159283875
     ],
-    "wof:lastmodified": 1791994049,
+    "wof:lastmodified": 1791994657,
     "wof:name": "UA2192 (BWI-SFO)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",

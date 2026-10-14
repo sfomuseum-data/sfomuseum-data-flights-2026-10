@@ -2,10 +2,12 @@
   "id": 2048579611,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-13",
+    "date:cessation_upper": "2026-10-13",
     "date:inception_lower": "2026-10-13",
     "date:inception_upper": "2026-10-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-13",
+    "edtf:cessation": "2026-10-13T21:21:35Z",
+    "edtf:inception": "2026-10-13T20:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159731972"
+    },
     "wof:country": "US",
     "wof:created": 1791994295,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -94,7 +102,7 @@
       1947304275,
       1159284021
     ],
-    "wof:lastmodified": 1791994295,
+    "wof:lastmodified": 1791994710,
     "wof:name": "AS753 (SFO-LAX)",
     "wof:parent_id": 1947304275,
     "wof:placetype": "custom",

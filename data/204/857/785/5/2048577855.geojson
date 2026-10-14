@@ -2,10 +2,12 @@
   "id": 2048577855,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-13",
+    "date:cessation_upper": "2026-10-13",
     "date:inception_lower": "2026-10-13",
     "date:inception_upper": "2026-10-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-13",
+    "edtf:cessation": "2026-10-13T06:49:14-07:00",
+    "edtf:inception": "2026-10-13T15:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-13",
@@ -21,6 +23,7 @@
     "geom:latitude": 38.283618000000004,
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
+    "icao:aircraft": "T50",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
@@ -34,7 +37,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N61115",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159760487"
+    },
     "wof:country": "US",
     "wof:created": 1791994086,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -51,7 +62,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1791994086,
+    "wof:lastmodified": 1791994661,
     "wof:name": "UA8172 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

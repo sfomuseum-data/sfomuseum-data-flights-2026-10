@@ -2,10 +2,12 @@
   "id": 2048581659,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-13",
+    "date:cessation_upper": "2026-10-13",
     "date:inception_lower": "2026-10-13",
     "date:inception_upper": "2026-10-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-13",
+    "edtf:cessation": "2026-10-13T19:57:57Z",
+    "edtf:inception": "2026-10-13T15:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159704915"
+    },
     "wof:country": "US",
     "wof:created": 1791994528,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -94,7 +102,7 @@
       1947304623,
       1159286015
     ],
-    "wof:lastmodified": 1791994528,
+    "wof:lastmodified": 1791994755,
     "wof:name": "UA599 (SFO-IAD)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

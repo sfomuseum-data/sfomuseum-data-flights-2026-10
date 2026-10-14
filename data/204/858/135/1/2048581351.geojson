@@ -2,10 +2,12 @@
   "id": 2048581351,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-14",
+    "date:cessation_upper": "2026-10-14",
     "date:inception_lower": "2026-10-13",
     "date:inception_upper": "2026-10-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-13",
+    "edtf:cessation": "2026-10-14T02:34:53Z",
+    "edtf:inception": "2026-10-13T23:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159746447"
+    },
     "wof:country": "US",
     "wof:created": 1791994492,
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
@@ -94,7 +102,7 @@
       1947304523,
       1159283597
     ],
-    "wof:lastmodified": 1791994492,
+    "wof:lastmodified": 1791994736,
     "wof:name": "UA2150 (SFO-AUS)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048578367,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-13",
+    "date:cessation_upper": "2026-10-13",
     "date:inception_lower": "2026-10-13",
     "date:inception_upper": "2026-10-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-13",
+    "edtf:cessation": "2026-10-13T15:30:37Z",
+    "edtf:inception": "2026-10-13T12:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-10-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.260825,
     "geom:longitude": -109.7109545,
     "iata:airline": "AA",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528541,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N150NN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159692496"
+    },
     "wof:country": "US",
     "wof:created": 1791994144,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -49,9 +61,9 @@
       102528541,
       102527513,
       1159283849,
-      -1
+      1159289411
     ],
-    "wof:lastmodified": 1791994144,
+    "wof:lastmodified": 1791994665,
     "wof:name": "AA2116 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048580937,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-13",
+    "date:cessation_upper": "2026-10-13",
     "date:inception_lower": "2026-10-13",
     "date:inception_upper": "2026-10-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-13",
+    "edtf:cessation": "2026-10-13T19:24:36Z",
+    "edtf:inception": "2026-10-13T18:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.907347,
     "geom:longitude": -120.3621325,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 1746879083,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N465WN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159713005"
+    },
     "wof:country": "US",
     "wof:created": 1791994444,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048580937,
     "wof:involves": [
+      1159289869,
       1746879083,
       102527513,
       1159285591,
       1947304621
     ],
-    "wof:lastmodified": 1791994444,
+    "wof:lastmodified": 1791994727,
     "wof:name": "WN2859 (SFO-BUR)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",
