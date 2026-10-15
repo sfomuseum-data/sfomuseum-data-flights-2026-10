@@ -2,10 +2,12 @@
   "id": 2048588545,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-14",
+    "date:cessation_upper": "2026-10-14",
     "date:inception_lower": "2026-10-14",
     "date:inception_upper": "2026-10-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-14",
+    "edtf:cessation": "2026-10-14T08:39:47Z",
+    "edtf:inception": "2026-10-14T08:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-10-14",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159762062"
+    },
     "wof:country": "US",
     "wof:created": 1792080833,
     "wof:geomhash": "5cb31017412a00ced54cc35c2a74371e",
@@ -51,7 +59,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1792080833,
+    "wof:lastmodified": 1792081377,
     "wof:name": "DL8840 (SFO-SMF)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048590065,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-14",
+    "date:cessation_upper": "2026-10-14",
     "date:inception_lower": "2026-10-14",
     "date:inception_upper": "2026-10-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-14",
+    "edtf:cessation": "2026-10-14T22:28:52Z",
+    "edtf:inception": "2026-10-14T17:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533997,
     "sfomuseum:base_flight_id": "20261014-D-ACA-3515",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N465UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +97,14 @@
     ],
     "wof:id": 2048590065,
     "wof:involves": [
-      102533997,
       102527513,
       1159285413,
       1947304527,
-      1159283597
+      1159283597,
+      1159292085,
+      102533997
     ],
-    "wof:lastmodified": 1792081009,
+    "wof:lastmodified": 1792081427,
     "wof:name": "UA2380 (SFO-HNL)",
     "wof:parent_id": 1947304527,
     "wof:placetype": "custom",

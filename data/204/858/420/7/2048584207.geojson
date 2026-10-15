@@ -2,10 +2,12 @@
   "id": 2048584207,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-14",
-    "date:inception_upper": "2026-10-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-14",
+    "date:cessation_lower": "2026-10-14",
+    "date:cessation_upper": "2026-10-14",
+    "date:inception_lower": "2026-10-15",
+    "date:inception_upper": "2026-10-15",
+    "edtf:cessation": "2026-10-14T16:22:24-07:00",
+    "edtf:inception": "2026-10-15T04:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261014-A-AMX-4471",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N332DU",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159759754"
+    },
     "wof:country": "US",
     "wof:created": 1792080323,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -92,9 +104,10 @@
       102533269,
       1159284261,
       1947304673,
-      1159283539
+      1159283539,
+      1813375783
     ],
-    "wof:lastmodified": 1792080323,
+    "wof:lastmodified": 1792081250,
     "wof:name": "DL2635 (SEA-SFO)",
     "wof:parent_id": 1947304673,
     "wof:placetype": "custom",

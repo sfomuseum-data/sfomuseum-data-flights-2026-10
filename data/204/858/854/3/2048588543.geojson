@@ -2,10 +2,12 @@
   "id": 2048588543,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-15",
+    "date:cessation_upper": "2026-10-15",
     "date:inception_lower": "2026-10-14",
     "date:inception_upper": "2026-10-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-14",
+    "edtf:cessation": "2026-10-15T02:44:15Z",
+    "edtf:inception": "2026-10-14T23:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-10-14",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159830044"
+    },
     "wof:country": "US",
     "wof:created": 1792080833,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -88,7 +96,7 @@
       1159284261,
       1947304299
     ],
-    "wof:lastmodified": 1792080833,
+    "wof:lastmodified": 1792081377,
     "wof:name": "DL8847 (SFO-MSP)",
     "wof:parent_id": 1947304299,
     "wof:placetype": "custom",

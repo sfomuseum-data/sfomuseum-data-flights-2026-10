@@ -2,10 +2,12 @@
   "id": 2048584183,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-14",
-    "date:inception_upper": "2026-10-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-14",
+    "date:cessation_lower": "2026-10-14",
+    "date:cessation_upper": "2026-10-14",
+    "date:inception_lower": "2026-10-15",
+    "date:inception_upper": "2026-10-15",
+    "edtf:cessation": "2026-10-14T15:24:43-07:00",
+    "edtf:inception": "2026-10-15T00:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261014-A-AFR-8808",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N909DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159751901"
+    },
     "wof:country": "US",
     "wof:created": 1792080321,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -92,9 +104,10 @@
       102525635,
       1159284261,
       1947304681,
-      1159283627
+      1159283627,
+      1377564285
     ],
-    "wof:lastmodified": 1792080321,
+    "wof:lastmodified": 1792081250,
     "wof:name": "DL1327 (DTW-SFO)",
     "wof:parent_id": 1947304681,
     "wof:placetype": "custom",

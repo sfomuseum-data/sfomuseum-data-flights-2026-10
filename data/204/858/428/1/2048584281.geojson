@@ -2,10 +2,12 @@
   "id": 2048584281,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-14",
+    "date:cessation_upper": "2026-10-14",
     "date:inception_lower": "2026-10-14",
     "date:inception_upper": "2026-10-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-14",
+    "edtf:cessation": "2026-10-14T07:09:34Z",
+    "edtf:inception": "2026-10-14T06:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-10-14",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159761645"
+    },
     "wof:country": "US",
     "wof:created": 1792080332,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -51,7 +56,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1792080332,
+    "wof:lastmodified": 1792081252,
     "wof:name": "DL8926 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

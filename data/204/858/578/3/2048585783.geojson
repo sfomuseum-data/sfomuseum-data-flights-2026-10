@@ -2,10 +2,12 @@
   "id": 2048585783,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-14",
+    "date:cessation_upper": "2026-10-14",
     "date:inception_lower": "2026-10-14",
     "date:inception_upper": "2026-10-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-14",
+    "edtf:cessation": "2026-10-14T16:26:20Z",
+    "edtf:inception": "2026-10-14T15:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159787628"
+    },
     "wof:country": "US",
     "wof:created": 1792080511,
     "wof:geomhash": "dcc7d5812c5708e8b42757f5054e75d6",
@@ -94,7 +102,7 @@
       1947304525,
       1159283697
     ],
-    "wof:lastmodified": 1792080511,
+    "wof:lastmodified": 1792081352,
     "wof:name": "UA2380 (ACV-SFO)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

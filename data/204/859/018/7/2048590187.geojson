@@ -2,10 +2,12 @@
   "id": 2048590187,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-15",
+    "date:cessation_upper": "2026-10-15",
     "date:inception_lower": "2026-10-14",
     "date:inception_upper": "2026-10-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-14",
+    "edtf:cessation": "2026-10-15T00:00:51Z",
+    "edtf:inception": "2026-10-14T23:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159832829"
+    },
     "wof:country": "US",
     "wof:created": 1792081023,
     "wof:geomhash": "5815a5b1ad78885fe3ae36c1daab138f",
@@ -94,7 +102,7 @@
       1947304607,
       1159284333
     ],
-    "wof:lastmodified": 1792081023,
+    "wof:lastmodified": 1792081428,
     "wof:name": "UA419 (SFO-ACV)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

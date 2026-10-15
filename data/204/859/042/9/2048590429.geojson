@@ -2,10 +2,12 @@
   "id": 2048590429,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-15",
+    "date:cessation_upper": "2026-10-15",
     "date:inception_lower": "2026-10-14",
     "date:inception_upper": "2026-10-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-14",
+    "edtf:cessation": "2026-10-15T00:25:35Z",
+    "edtf:inception": "2026-10-14T23:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-14",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159832715"
+    },
     "wof:country": "US",
     "wof:created": 1792081051,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -51,7 +59,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1792081051,
+    "wof:lastmodified": 1792081431,
     "wof:name": "UA8154 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
