@@ -2,10 +2,12 @@
   "id": 2048599081,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-15",
-    "date:inception_upper": "2026-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-15",
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
+    "date:inception_lower": "2026-10-16",
+    "date:inception_upper": "2026-10-16",
+    "edtf:cessation": "2026-10-16T20:10:06Z",
+    "edtf:inception": "2026-10-16T16:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-15",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159848593"
+    },
     "wof:country": "US",
     "wof:created": 1792167453,
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
@@ -88,7 +96,7 @@
       1159285413,
       1947304617
     ],
-    "wof:lastmodified": 1792167453,
+    "wof:lastmodified": 1792167705,
     "wof:name": "UA1986 (SFO-DTW)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",

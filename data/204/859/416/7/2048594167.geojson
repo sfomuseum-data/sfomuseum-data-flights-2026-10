@@ -2,10 +2,12 @@
   "id": 2048594167,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-15",
+    "date:cessation_upper": "2026-10-15",
     "date:inception_lower": "2026-10-15",
     "date:inception_upper": "2026-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-15",
+    "edtf:cessation": "2026-10-15T18:56:38Z",
+    "edtf:inception": "2026-10-15T14:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-15",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159873732"
+    },
     "wof:country": "US",
     "wof:created": 1792166876,
     "wof:geomhash": "bbd014edfd8455b7d9e062bec23e52e6",
@@ -88,7 +96,7 @@
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1792166876,
+    "wof:lastmodified": 1792167638,
     "wof:name": "WN4367 (MDW-SFO)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

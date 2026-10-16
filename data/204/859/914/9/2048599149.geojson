@@ -2,10 +2,12 @@
   "id": 2048599149,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-15",
-    "date:inception_upper": "2026-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-15",
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
+    "date:inception_lower": "2026-10-16",
+    "date:inception_upper": "2026-10-16",
+    "edtf:cessation": "2026-10-16T05:41:25Z",
+    "edtf:inception": "2026-10-16T04:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159843667"
+    },
     "wof:country": "US",
     "wof:created": 1792167461,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -94,7 +102,7 @@
       1947304491,
       1159283597
     ],
-    "wof:lastmodified": 1792167461,
+    "wof:lastmodified": 1792167705,
     "wof:name": "UA2317 (SFO-ORD)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",

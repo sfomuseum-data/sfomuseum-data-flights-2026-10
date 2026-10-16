@@ -2,10 +2,12 @@
   "id": 2048597893,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-10-15",
     "date:inception_upper": "2026-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-15",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-10-15T11:22:25-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.97934599999999,
     "iata:airline": "F9",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "FFT",
     "icao:base_airline": "VOI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102533575,
     "sfomuseum:base_flight_id": "20261015-D-VOI-2004",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N713FR",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +101,10 @@
       102527513,
       1159284401,
       1947304273,
-      1360700749
+      1360700749,
+      1159289411
     ],
-    "wof:lastmodified": 1792167317,
+    "wof:lastmodified": 1792167695,
     "wof:name": "F91160 (SFO-ONT)",
     "wof:parent_id": 1947304273,
     "wof:placetype": "custom",

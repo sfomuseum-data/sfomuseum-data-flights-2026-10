@@ -2,10 +2,12 @@
   "id": 2048599167,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-15",
+    "date:cessation_upper": "2026-10-15",
     "date:inception_lower": "2026-10-15",
     "date:inception_upper": "2026-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-15",
+    "edtf:cessation": "2026-10-15T21:32:18Z",
+    "edtf:inception": "2026-10-15T20:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.2977885,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527733,
     "sfomuseum:base_flight_id": "20261015-D-ACA-4381",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N849UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159903462"
+    },
     "wof:country": "US",
     "wof:created": 1792167463,
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
@@ -92,9 +104,10 @@
       102527513,
       1159285413,
       1947304617,
-      1159283597
+      1159283597,
+      1159289407
     ],
-    "wof:lastmodified": 1792167463,
+    "wof:lastmodified": 1792167705,
     "wof:name": "UA2364 (SFO-BOI)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",

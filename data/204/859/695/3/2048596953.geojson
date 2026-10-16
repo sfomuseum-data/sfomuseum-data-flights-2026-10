@@ -2,10 +2,12 @@
   "id": 2048596953,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-15",
+    "date:cessation_upper": "2026-10-15",
     "date:inception_lower": "2026-10-15",
     "date:inception_upper": "2026-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-15",
+    "edtf:cessation": "2026-10-15T16:17:08Z",
+    "edtf:inception": "2026-10-15T14:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2026-10-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102532251,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N919AK",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159873800"
+    },
     "wof:country": "US",
     "wof:created": 1792167200,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -86,9 +98,10 @@
       102532251,
       102527513,
       1159283813,
-      1947304293
+      1947304293,
+      1528104577
     ],
-    "wof:lastmodified": 1792167200,
+    "wof:lastmodified": 1792167688,
     "wof:name": "AS1410 (SFO-PDX)",
     "wof:parent_id": 1947304293,
     "wof:placetype": "custom",

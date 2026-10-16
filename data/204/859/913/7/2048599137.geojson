@@ -2,10 +2,12 @@
   "id": 2048599137,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
     "date:inception_lower": "2026-10-15",
     "date:inception_upper": "2026-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-15",
+    "edtf:cessation": "2026-10-16T02:27:10Z",
+    "edtf:inception": "2026-10-15T22:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159887607"
+    },
     "wof:country": "US",
     "wof:created": 1792167459,
     "wof:geomhash": "75b67362ad403f806ec665af17b684aa",
@@ -94,7 +102,7 @@
       1947304515,
       1159283697
     ],
-    "wof:lastmodified": 1792167459,
+    "wof:lastmodified": 1792167705,
     "wof:name": "UA2274 (SFO-IND)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

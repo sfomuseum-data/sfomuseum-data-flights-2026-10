@@ -2,10 +2,12 @@
   "id": 2048594557,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-15",
+    "date:cessation_upper": "2026-10-15",
     "date:inception_lower": "2026-10-15",
     "date:inception_upper": "2026-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-15",
+    "edtf:cessation": "2026-10-15T22:45:12Z",
+    "edtf:inception": "2026-10-15T21:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159911793"
+    },
     "wof:country": "US",
     "wof:created": 1792166922,
     "wof:geomhash": "10bf27aabb5200ef4863b11f6c2a5d60",
@@ -94,7 +102,7 @@
       1947304455,
       1159284211
     ],
-    "wof:lastmodified": 1792166922,
+    "wof:lastmodified": 1792167643,
     "wof:name": "UA1754 (MFR-SFO)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

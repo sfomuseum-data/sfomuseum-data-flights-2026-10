@@ -2,10 +2,12 @@
   "id": 2048591747,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-15",
-    "date:inception_upper": "2026-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-15",
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-10-15T23:09:34-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AI",
     "flysfo:date": "2026-10-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.089972,
     "geom:longitude": -22.636412999999997,
     "iata:airline": "AI",
+    "icao:aircraft": "B77W",
     "icao:airline": "AIC",
     "lbl:latitude": 37.617615,
     "lbl:longitude": -122.390247,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159283649,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102555709,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "VTALJ",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +92,13 @@
     ],
     "wof:id": 2048591747,
     "wof:involves": [
-      102527513,
       102555709,
       1159283649,
-      1947304141
+      1947304141,
+      1159289993,
+      102527513
     ],
-    "wof:lastmodified": 1792166585,
+    "wof:lastmodified": 1792167619,
     "wof:name": "AI173 (DEL-SFO)",
     "wof:parent_id": 1947304141,
     "wof:placetype": "custom",

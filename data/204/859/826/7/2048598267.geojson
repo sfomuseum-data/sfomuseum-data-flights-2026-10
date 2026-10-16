@@ -2,10 +2,12 @@
   "id": 2048598267,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
     "date:inception_lower": "2026-10-15",
     "date:inception_upper": "2026-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-15",
+    "edtf:cessation": "2026-10-16T10:17:23Z",
+    "edtf:inception": "2026-10-15T23:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LO",
     "flysfo:date": "2026-10-15",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159922749"
+    },
     "wof:country": "US",
     "wof:created": 1792167360,
     "wof:geomhash": "d4a923af30a85ee5be1e32ce465ff335",
@@ -88,7 +96,7 @@
       1159284705,
       1947304077
     ],
-    "wof:lastmodified": 1792167360,
+    "wof:lastmodified": 1792167698,
     "wof:name": "LO36 (SFO-WAW)",
     "wof:parent_id": 1947304077,
     "wof:placetype": "custom",

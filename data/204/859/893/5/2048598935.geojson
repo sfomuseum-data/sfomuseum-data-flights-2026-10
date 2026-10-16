@@ -2,10 +2,12 @@
   "id": 2048598935,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-15",
+    "date:cessation_upper": "2026-10-15",
     "date:inception_lower": "2026-10-15",
     "date:inception_upper": "2026-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-15",
+    "edtf:cessation": "2026-10-15T19:47:05Z",
+    "edtf:inception": "2026-10-15T15:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-15",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159876958"
+    },
     "wof:country": "US",
     "wof:created": 1792167436,
     "wof:geomhash": "b3e3651b522d461c555c2feff400782a",
@@ -88,7 +96,7 @@
       1159285413,
       1947304523
     ],
-    "wof:lastmodified": 1792167436,
+    "wof:lastmodified": 1792167703,
     "wof:name": "UA1329 (SFO-CMH)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

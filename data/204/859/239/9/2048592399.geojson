@@ -2,10 +2,12 @@
   "id": 2048592399,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-15",
+    "date:cessation_upper": "2026-10-15",
     "date:inception_lower": "2026-10-15",
     "date:inception_upper": "2026-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-15",
+    "edtf:cessation": "2026-10-15T23:01:30Z",
+    "edtf:inception": "2026-10-15T22:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159913948"
+    },
     "wof:country": "US",
     "wof:created": 1792166664,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -94,7 +102,7 @@
       1947304303,
       1159283747
     ],
-    "wof:lastmodified": 1792166664,
+    "wof:lastmodified": 1792167625,
     "wof:name": "AS1411 (LAX-SFO)",
     "wof:parent_id": 1947304303,
     "wof:placetype": "custom",

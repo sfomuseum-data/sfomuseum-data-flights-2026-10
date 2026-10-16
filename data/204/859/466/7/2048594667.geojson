@@ -2,10 +2,12 @@
   "id": 2048594667,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-15",
+    "date:cessation_upper": "2026-10-15",
     "date:inception_lower": "2026-10-15",
     "date:inception_upper": "2026-10-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-15",
+    "edtf:cessation": "2026-10-15T19:23:14Z",
+    "edtf:inception": "2026-10-15T18:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159893256"
+    },
     "wof:country": "US",
     "wof:created": 1792166934,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -94,7 +102,7 @@
       1947304601,
       1159283697
     ],
-    "wof:lastmodified": 1792166934,
+    "wof:lastmodified": 1792167644,
     "wof:name": "UA2199 (LAX-SFO)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",
