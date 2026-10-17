@@ -2,10 +2,12 @@
   "id": 2048608343,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
     "date:inception_lower": "2026-10-16",
     "date:inception_upper": "2026-10-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-16",
+    "edtf:cessation": "2026-10-16T22:47:28Z",
+    "edtf:inception": "2026-10-16T17:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159981762"
+    },
     "wof:country": "US",
     "wof:created": 1792253818,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -94,7 +102,7 @@
       1947304525,
       1159283697
     ],
-    "wof:lastmodified": 1792253818,
+    "wof:lastmodified": 1792254042,
     "wof:name": "UA2380 (SFO-HNL)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

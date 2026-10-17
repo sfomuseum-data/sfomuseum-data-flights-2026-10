@@ -2,10 +2,12 @@
   "id": 2048603339,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
     "date:inception_lower": "2026-10-16",
     "date:inception_upper": "2026-10-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-16",
+    "edtf:cessation": "2026-10-16T22:44:32Z",
+    "edtf:inception": "2026-10-16T21:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-16",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160000960"
+    },
     "wof:country": "US",
     "wof:created": 1792253253,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -88,7 +96,7 @@
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1792253253,
+    "wof:lastmodified": 1792253980,
     "wof:name": "WN576 (PHX-SFO)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

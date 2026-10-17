@@ -2,10 +2,12 @@
   "id": 2048603763,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-17",
+    "date:cessation_upper": "2026-10-17",
     "date:inception_lower": "2026-10-16",
     "date:inception_upper": "2026-10-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-16",
+    "edtf:cessation": "2026-10-16T23:43:56-07:00",
+    "edtf:inception": "2026-10-16T13:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261016-A-ACA-4371",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N838UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "159957997"
+    },
     "wof:country": "US",
     "wof:created": 1792253301,
     "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
@@ -51,13 +63,13 @@
     ],
     "wof:id": 2048603763,
     "wof:involves": [
-      102527513,
       102525535,
       1159285413,
-      -1,
-      1159283597
+      1159283597,
+      1159289407,
+      102527513
     ],
-    "wof:lastmodified": 1792253301,
+    "wof:lastmodified": 1792253986,
     "wof:name": "UA1954 (RNO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

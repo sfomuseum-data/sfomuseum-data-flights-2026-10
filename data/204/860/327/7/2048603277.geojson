@@ -2,10 +2,12 @@
   "id": 2048603277,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
     "date:inception_lower": "2026-10-16",
     "date:inception_upper": "2026-10-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-16",
+    "edtf:cessation": "2026-10-16T20:34:47Z",
+    "edtf:inception": "2026-10-16T19:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-16",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159992909"
+    },
     "wof:country": "US",
     "wof:created": 1792253246,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -88,7 +96,7 @@
       1159285591,
       1947304603
     ],
-    "wof:lastmodified": 1792253246,
+    "wof:lastmodified": 1792253979,
     "wof:name": "WN1817 (LAX-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

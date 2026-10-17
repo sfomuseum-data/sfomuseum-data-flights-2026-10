@@ -2,10 +2,12 @@
   "id": 2048604133,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
     "date:inception_lower": "2026-10-16",
     "date:inception_upper": "2026-10-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-16",
+    "edtf:cessation": "2026-10-16T10:19:16-07:00",
+    "edtf:inception": "2026-10-16T19:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -104.5237975,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261016-A-ANZ-9386",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N477UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159996579"
+    },
     "wof:country": "US",
     "wof:created": 1792253343,
     "wof:geomhash": "462e561a68f133085fb895c49eddc748",
@@ -92,9 +104,10 @@
       102525035,
       1159285413,
       1947304453,
-      1159283697
+      1159283697,
+      1159292085
     ],
-    "wof:lastmodified": 1792253343,
+    "wof:lastmodified": 1792253989,
     "wof:name": "UA581 (BNA-SFO)",
     "wof:parent_id": 1947304453,
     "wof:placetype": "custom",

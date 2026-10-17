@@ -2,10 +2,12 @@
   "id": 2048608075,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
     "date:inception_lower": "2026-10-16",
     "date:inception_upper": "2026-10-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-16",
+    "edtf:cessation": "2026-10-16T05:24:46Z",
+    "edtf:inception": "2026-10-16T04:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159940047"
+    },
     "wof:country": "US",
     "wof:created": 1792253789,
     "wof:geomhash": "3d19e2486afc236330c096bb1f630ba3",
@@ -94,7 +99,7 @@
       1947304609,
       1159283697
     ],
-    "wof:lastmodified": 1792253789,
+    "wof:lastmodified": 1792254037,
     "wof:name": "UA1219 (SFO-MFR)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

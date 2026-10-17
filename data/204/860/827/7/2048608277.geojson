@@ -2,10 +2,12 @@
   "id": 2048608277,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-16",
-    "date:inception_upper": "2026-10-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-16",
+    "date:cessation_lower": "2026-10-17",
+    "date:cessation_upper": "2026-10-17",
+    "date:inception_lower": "2026-10-17",
+    "date:inception_upper": "2026-10-17",
+    "edtf:cessation": "2026-10-17T02:57:30Z",
+    "edtf:inception": "2026-10-17T02:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159958011"
+    },
     "wof:country": "US",
     "wof:created": 1792253811,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -94,7 +102,7 @@
       1947304617,
       1159285749
     ],
-    "wof:lastmodified": 1792253811,
+    "wof:lastmodified": 1792254040,
     "wof:name": "UA2127 (SFO-LAX)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",

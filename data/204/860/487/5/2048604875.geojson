@@ -2,10 +2,12 @@
   "id": 2048604875,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
     "date:inception_lower": "2026-10-16",
     "date:inception_upper": "2026-10-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-16",
+    "edtf:cessation": "2026-10-16T12:22:48Z",
+    "edtf:inception": "2026-10-16T07:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-10-16",
@@ -48,6 +50,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159943440"
+    },
     "wof:country": "US",
     "wof:created": 1792253426,
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
@@ -88,7 +93,7 @@
       1159283849,
       1947304277
     ],
-    "wof:lastmodified": 1792253426,
+    "wof:lastmodified": 1792253994,
     "wof:name": "AA2663 (SFO-PHL)",
     "wof:parent_id": 1947304277,
     "wof:placetype": "custom",

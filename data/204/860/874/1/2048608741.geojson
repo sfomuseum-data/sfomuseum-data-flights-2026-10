@@ -2,10 +2,12 @@
   "id": 2048608741,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-17",
+    "date:cessation_upper": "2026-10-17",
     "date:inception_lower": "2026-10-16",
     "date:inception_upper": "2026-10-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-16",
+    "edtf:cessation": "2026-10-17T02:48:17Z",
+    "edtf:inception": "2026-10-16T21:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.256470999999998,
     "geom:longitude": -139.40440999999998,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532929,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37325",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "160004500"
+    },
     "wof:country": "US",
     "wof:created": 1792253862,
     "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048608741,
     "wof:involves": [
+      1528104575,
       102532929,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1792253862,
+    "wof:lastmodified": 1792254047,
     "wof:name": "UA8132 (SFO-OGG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

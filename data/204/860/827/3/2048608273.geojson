@@ -2,10 +2,12 @@
   "id": 2048608273,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
     "date:inception_lower": "2026-10-16",
     "date:inception_upper": "2026-10-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-16",
+    "edtf:cessation": "2026-10-16T05:08:20Z",
+    "edtf:inception": "2026-10-16T03:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159937596"
+    },
     "wof:country": "US",
     "wof:created": 1792253811,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -94,7 +99,7 @@
       1947304623,
       1159283597
     ],
-    "wof:lastmodified": 1792253811,
+    "wof:lastmodified": 1792254040,
     "wof:name": "UA2117 (SFO-DEN)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

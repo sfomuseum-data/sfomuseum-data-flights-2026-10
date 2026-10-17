@@ -2,10 +2,12 @@
   "id": 2048606261,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
     "date:inception_lower": "2026-10-16",
     "date:inception_upper": "2026-10-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-16",
+    "edtf:cessation": "2026-10-16T18:42:46Z",
+    "edtf:inception": "2026-10-16T18:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2026-10-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.490859,
     "geom:longitude": -122.14984899999999,
     "iata:airline": "AS",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527529,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N967AK",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159982072"
+    },
     "wof:country": "US",
     "wof:created": 1792253584,
     "wof:geomhash": "9e57705c73bd73668d4b0d529a043646",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048606261,
     "wof:involves": [
-      102527529,
       102527513,
       1159283813,
-      1947304311
+      1947304311,
+      1528104577,
+      102527529
     ],
-    "wof:lastmodified": 1792253584,
+    "wof:lastmodified": 1792254022,
     "wof:name": "AS9718 (SFO-SJC)",
     "wof:parent_id": 1947304311,
     "wof:placetype": "custom",

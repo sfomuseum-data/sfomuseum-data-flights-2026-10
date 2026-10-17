@@ -2,10 +2,12 @@
   "id": 2048600237,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-16",
+    "date:cessation_upper": "2026-10-16",
     "date:inception_lower": "2026-10-16",
     "date:inception_upper": "2026-10-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-16",
+    "edtf:cessation": "2026-10-16T19:39:29Z",
+    "edtf:inception": "2026-10-16T15:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "159970987"
+    },
     "wof:country": "US",
     "wof:created": 1792252879,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -94,7 +102,7 @@
       1947304309,
       1159284563
     ],
-    "wof:lastmodified": 1792252879,
+    "wof:lastmodified": 1792253946,
     "wof:name": "AA1948 (ORD-SFO)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",
