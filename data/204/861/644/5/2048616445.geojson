@@ -2,10 +2,12 @@
   "id": 2048616445,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-17",
+    "date:cessation_upper": "2026-10-17",
     "date:inception_lower": "2026-10-17",
     "date:inception_upper": "2026-10-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-17",
+    "edtf:cessation": "2026-10-17T19:25:56Z",
+    "edtf:inception": "2026-10-17T14:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160052255"
+    },
     "wof:country": "US",
     "wof:created": 1792340104,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -94,7 +102,7 @@
       1947304459,
       1159286015
     ],
-    "wof:lastmodified": 1792340104,
+    "wof:lastmodified": 1792340355,
     "wof:name": "UA1149 (SFO-EWR)",
     "wof:parent_id": 1947304459,
     "wof:placetype": "custom",

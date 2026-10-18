@@ -2,10 +2,12 @@
   "id": 2048616465,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-17",
-    "date:inception_upper": "2026-10-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-17",
+    "date:cessation_lower": "2026-10-18",
+    "date:cessation_upper": "2026-10-18",
+    "date:inception_lower": "2026-10-18",
+    "date:inception_upper": "2026-10-18",
+    "edtf:cessation": "2026-10-18T03:52:04Z",
+    "edtf:inception": "2026-10-18T02:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160046827"
+    },
     "wof:country": "US",
     "wof:created": 1792340106,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -94,7 +102,7 @@
       1947304601,
       1159283597
     ],
-    "wof:lastmodified": 1792340106,
+    "wof:lastmodified": 1792340355,
     "wof:name": "UA1227 (SFO-PDX)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",

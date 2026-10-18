@@ -2,10 +2,12 @@
   "id": 2048616951,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-17",
+    "date:cessation_upper": "2026-10-17",
     "date:inception_lower": "2026-10-17",
     "date:inception_upper": "2026-10-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-17",
+    "edtf:cessation": "2026-10-17T19:58:21Z",
+    "edtf:inception": "2026-10-17T15:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.620244,
     "lbl:longitude": -122.387813,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:base_flight_id": "20261017-D-DLH-7531",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N26967",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160057988"
+    },
     "wof:country": "US",
     "wof:created": 1792340161,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -92,9 +104,10 @@
       102527513,
       1159285413,
       1947304463,
-      1159286015
+      1159286015,
+      1159293215
     ],
-    "wof:lastmodified": 1792340161,
+    "wof:lastmodified": 1792340362,
     "wof:name": "UA599 (SFO-IAD)",
     "wof:parent_id": 1947304463,
     "wof:placetype": "custom",

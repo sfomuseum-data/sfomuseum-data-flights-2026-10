@@ -2,10 +2,12 @@
   "id": 2048611425,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-17",
+    "date:cessation_upper": "2026-10-17",
     "date:inception_lower": "2026-10-17",
     "date:inception_upper": "2026-10-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-17",
+    "edtf:cessation": "2026-10-17T00:28:11-07:00",
+    "edtf:inception": "2026-10-17T13:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "BR",
     "flysfo:date": "2026-10-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "BR",
+    "icao:aircraft": "B77L",
     "icao:airline": "EVA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289989,
     "sfomuseum:airline_id": 1159284349,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "B16788",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "160039530"
+    },
     "wof:country": "US",
     "wof:created": 1792339528,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048611425,
     "wof:involves": [
-      102527513,
-      102533795,
       1159284349,
-      -1
+      1159289989,
+      102527513,
+      102533795
     ],
-    "wof:lastmodified": 1792339528,
+    "wof:lastmodified": 1792340255,
     "wof:name": "BR629 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
