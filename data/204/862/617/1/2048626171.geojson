@@ -2,10 +2,12 @@
   "id": 2048626171,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-18",
-    "date:inception_upper": "2026-10-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-18",
+    "date:cessation_lower": "2026-10-19",
+    "date:cessation_upper": "2026-10-19",
+    "date:inception_lower": "2026-10-19",
+    "date:inception_upper": "2026-10-19",
+    "edtf:cessation": "2026-10-19T07:34:05Z",
+    "edtf:inception": "2026-10-19T02:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160106141"
+    },
     "wof:country": "US",
     "wof:created": 1792426713,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -94,7 +102,7 @@
       1947304487,
       1159283597
     ],
-    "wof:lastmodified": 1792426713,
+    "wof:lastmodified": 1792426907,
     "wof:name": "UA638 (SFO-HNL)",
     "wof:parent_id": 1947304487,
     "wof:placetype": "custom",

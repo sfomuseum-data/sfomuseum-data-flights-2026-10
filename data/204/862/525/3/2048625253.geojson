@@ -2,10 +2,12 @@
   "id": 2048625253,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-18",
+    "date:cessation_upper": "2026-10-18",
     "date:inception_lower": "2026-10-18",
     "date:inception_upper": "2026-10-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-18",
+    "edtf:cessation": "2026-10-18T20:49:43Z",
+    "edtf:inception": "2026-10-18T18:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-18",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "160147329"
+    },
     "wof:country": "US",
     "wof:created": 1792426606,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -51,7 +59,7 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1792426606,
+    "wof:lastmodified": 1792426897,
     "wof:name": "WN3776 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

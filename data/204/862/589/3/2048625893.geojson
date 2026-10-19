@@ -2,10 +2,12 @@
   "id": 2048625893,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-18",
+    "date:cessation_upper": "2026-10-18",
     "date:inception_lower": "2026-10-18",
     "date:inception_upper": "2026-10-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-18",
+    "edtf:cessation": "2026-10-18T18:41:58Z",
+    "edtf:inception": "2026-10-18T18:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.427454999999995,
     "geom:longitude": -121.5070865,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527351,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N827UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160144770"
+    },
     "wof:country": "US",
     "wof:created": 1792426681,
     "wof:geomhash": "6ee4dc6f06435306541ac2ffbe1ad823",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048625893,
     "wof:involves": [
+      1159289407,
       102527351,
       102527513,
       1159285413,
       1947304619
     ],
-    "wof:lastmodified": 1792426681,
+    "wof:lastmodified": 1792426904,
     "wof:name": "UA2649 (SFO-SBP)",
     "wof:parent_id": 1947304619,
     "wof:placetype": "custom",

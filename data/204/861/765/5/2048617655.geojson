@@ -2,10 +2,12 @@
   "id": 2048617655,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-18",
-    "date:inception_upper": "2026-10-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-18",
+    "date:cessation_lower": "2026-10-18",
+    "date:cessation_upper": "2026-10-18",
+    "date:inception_lower": "2026-10-19",
+    "date:inception_upper": "2026-10-19",
+    "edtf:cessation": "2026-10-18T13:23:11-07:00",
+    "edtf:inception": "2026-10-19T01:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "AAL",
     "icao:base_airline": "FJI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261018-A-FJI-5037",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N649AW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160102347"
+    },
     "wof:country": "US",
     "wof:created": 1792425686,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048617655,
     "wof:involves": [
+      1159292085,
       102527513,
       102526751,
       1159283849,
       1947304283,
       1159283717
     ],
-    "wof:lastmodified": 1792425686,
+    "wof:lastmodified": 1792426796,
     "wof:name": "AA2421 (PHX-SFO)",
     "wof:parent_id": 1947304283,
     "wof:placetype": "custom",

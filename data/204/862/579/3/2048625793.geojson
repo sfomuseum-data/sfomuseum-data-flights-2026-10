@@ -2,10 +2,12 @@
   "id": 2048625793,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-18",
+    "date:cessation_upper": "2026-10-18",
     "date:inception_lower": "2026-10-18",
     "date:inception_upper": "2026-10-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-18",
+    "edtf:cessation": "2026-10-18T09:40:08Z",
+    "edtf:inception": "2026-10-18T05:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160110588"
+    },
     "wof:country": "US",
     "wof:created": 1792426669,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -94,7 +99,7 @@
       1947304527,
       1159283597
     ],
-    "wof:lastmodified": 1792426669,
+    "wof:lastmodified": 1792426903,
     "wof:name": "UA2278 (SFO-ORD)",
     "wof:parent_id": 1947304527,
     "wof:placetype": "custom",

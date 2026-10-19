@@ -2,10 +2,12 @@
   "id": 2048625977,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-18",
-    "date:inception_upper": "2026-10-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-18",
+    "date:cessation_lower": "2026-10-19",
+    "date:cessation_upper": "2026-10-19",
+    "date:inception_lower": "2026-10-19",
+    "date:inception_upper": "2026-10-19",
+    "edtf:cessation": "2026-10-19T05:57:24Z",
+    "edtf:inception": "2026-10-19T04:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160109577"
+    },
     "wof:country": "US",
     "wof:created": 1792426691,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -94,7 +102,7 @@
       1763588337,
       1159283597
     ],
-    "wof:lastmodified": 1792426691,
+    "wof:lastmodified": 1792426905,
     "wof:name": "UA442 (SFO-SAN)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

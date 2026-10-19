@@ -2,10 +2,12 @@
   "id": 2048619583,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-18",
+    "date:cessation_upper": "2026-10-18",
     "date:inception_lower": "2026-10-18",
     "date:inception_upper": "2026-10-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-18",
+    "edtf:cessation": "2026-10-18T20:28:11Z",
+    "edtf:inception": "2026-10-18T19:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160153922"
+    },
     "wof:country": "US",
     "wof:created": 1792425935,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -94,7 +102,7 @@
       1947304675,
       1159283539
     ],
-    "wof:lastmodified": 1792425935,
+    "wof:lastmodified": 1792426836,
     "wof:name": "DL1060 (LAX-SFO)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048624525,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-18",
+    "date:cessation_upper": "2026-10-18",
     "date:inception_lower": "2026-10-18",
     "date:inception_upper": "2026-10-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-18",
+    "edtf:cessation": "2026-10-18T03:25:54Z",
+    "edtf:inception": "2026-10-18T02:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2026-10-18",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160105800"
+    },
     "wof:country": "US",
     "wof:created": 1792426522,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -88,7 +96,7 @@
       1159284401,
       1947304273
     ],
-    "wof:lastmodified": 1792426522,
+    "wof:lastmodified": 1792426890,
     "wof:name": "F94402 (SFO-LAS)",
     "wof:parent_id": 1947304273,
     "wof:placetype": "custom",

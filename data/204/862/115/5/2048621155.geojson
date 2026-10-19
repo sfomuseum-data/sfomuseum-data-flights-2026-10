@@ -2,10 +2,12 @@
   "id": 2048621155,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-18",
+    "date:cessation_upper": "2026-10-18",
     "date:inception_lower": "2026-10-18",
     "date:inception_upper": "2026-10-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-18",
+    "edtf:cessation": "2026-10-18T16:20:20Z",
+    "edtf:inception": "2026-10-18T11:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160117312"
+    },
     "wof:country": "US",
     "wof:created": 1792426126,
     "wof:geomhash": "e5ae5d1ea61206da1f1e1104d6bc1bb7",
@@ -94,7 +102,7 @@
       1947304457,
       1159283697
     ],
-    "wof:lastmodified": 1792426126,
+    "wof:lastmodified": 1792426849,
     "wof:name": "UA1712 (TPA-SFO)",
     "wof:parent_id": 1947304457,
     "wof:placetype": "custom",
