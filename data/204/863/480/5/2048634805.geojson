@@ -2,10 +2,12 @@
   "id": 2048634805,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-19",
+    "date:cessation_upper": "2026-10-19",
     "date:inception_lower": "2026-10-19",
     "date:inception_upper": "2026-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-19",
+    "edtf:cessation": "2026-10-19T20:45:52Z",
+    "edtf:inception": "2026-10-19T17:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160223757"
+    },
     "wof:country": "US",
     "wof:created": 1792513010,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -94,7 +102,7 @@
       1947304495,
       1159283697
     ],
-    "wof:lastmodified": 1792513010,
+    "wof:lastmodified": 1792513256,
     "wof:name": "UA1050 (SFO-MSP)",
     "wof:parent_id": 1947304495,
     "wof:placetype": "custom",

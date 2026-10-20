@@ -2,10 +2,12 @@
   "id": 2048630055,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-19",
+    "date:cessation_upper": "2026-10-19",
     "date:inception_lower": "2026-10-19",
     "date:inception_upper": "2026-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-19",
+    "edtf:cessation": "2026-10-19T07:18:30Z",
+    "edtf:inception": "2026-10-19T03:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-19",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160183782"
+    },
     "wof:country": "US",
     "wof:created": 1792512469,
     "wof:geomhash": "bbd014edfd8455b7d9e062bec23e52e6",
@@ -88,7 +93,7 @@
       1159285591,
       1947304625
     ],
-    "wof:lastmodified": 1792512469,
+    "wof:lastmodified": 1792513197,
     "wof:name": "WN2199 (MDW-SFO)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

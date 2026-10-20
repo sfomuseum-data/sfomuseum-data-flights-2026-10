@@ -2,10 +2,12 @@
   "id": 2048629705,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-19",
+    "date:cessation_upper": "2026-10-19",
     "date:inception_lower": "2026-10-19",
     "date:inception_upper": "2026-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-19",
+    "edtf:cessation": "2026-10-19T23:21:40Z",
+    "edtf:inception": "2026-10-19T22:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2026-10-19",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160251504"
+    },
     "wof:country": "US",
     "wof:created": 1792512429,
     "wof:geomhash": "6d8f05e22cdd419a749a10658572882e",
@@ -88,7 +96,7 @@
       1763552131,
       1947304603
     ],
-    "wof:lastmodified": 1792512429,
+    "wof:lastmodified": 1792513194,
     "wof:name": "MX1344 (SBD-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

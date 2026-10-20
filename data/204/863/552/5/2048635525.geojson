@@ -2,10 +2,12 @@
   "id": 2048635525,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-19",
-    "date:inception_upper": "2026-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-19",
+    "date:cessation_lower": "2026-10-20",
+    "date:cessation_upper": "2026-10-20",
+    "date:inception_lower": "2026-10-20",
+    "date:inception_upper": "2026-10-20",
+    "edtf:cessation": "2026-10-20T20:41:28Z",
+    "edtf:inception": "2026-10-20T07:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-19",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160189003"
+    },
     "wof:country": "US",
     "wof:created": 1792513090,
     "wof:geomhash": "b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
@@ -88,7 +96,7 @@
       1159285413,
       1947304149
     ],
-    "wof:lastmodified": 1792513090,
+    "wof:lastmodified": 1792513273,
     "wof:name": "UA877 (SFO-HKG)",
     "wof:parent_id": 1947304149,
     "wof:placetype": "custom",

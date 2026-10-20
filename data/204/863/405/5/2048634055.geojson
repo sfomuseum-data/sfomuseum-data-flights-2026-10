@@ -2,10 +2,12 @@
   "id": 2048634055,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-20",
+    "date:cessation_upper": "2026-10-20",
     "date:inception_lower": "2026-10-19",
     "date:inception_upper": "2026-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-19",
+    "edtf:cessation": "2026-10-20T03:41:43Z",
+    "edtf:inception": "2026-10-19T22:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160246533"
+    },
     "wof:country": "US",
     "wof:created": 1792512926,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -94,7 +102,7 @@
       1947304315,
       1159286259
     ],
-    "wof:lastmodified": 1792512926,
+    "wof:lastmodified": 1792513250,
     "wof:name": "B6416 (SFO-JFK)",
     "wof:parent_id": 1947304315,
     "wof:placetype": "custom",

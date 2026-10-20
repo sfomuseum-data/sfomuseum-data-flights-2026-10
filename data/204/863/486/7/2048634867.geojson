@@ -2,10 +2,12 @@
   "id": 2048634867,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-19",
+    "date:cessation_upper": "2026-10-19",
     "date:inception_lower": "2026-10-19",
     "date:inception_upper": "2026-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-19",
+    "edtf:cessation": "2026-10-19T19:31:13Z",
+    "edtf:inception": "2026-10-19T15:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-19",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.8087165,
     "geom:longitude": -102.62808,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618774,
     "lbl:longitude": -122.384852,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532255,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N61886",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160211001"
+    },
     "wof:country": "US",
     "wof:created": 1792513017,
     "wof:geomhash": "b3e3651b522d461c555c2feff400782a",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048634867,
     "wof:involves": [
+      1377564285,
       102532255,
       102527513,
       1159285413,
       1947304513
     ],
-    "wof:lastmodified": 1792513017,
+    "wof:lastmodified": 1792513256,
     "wof:name": "UA1329 (SFO-CMH)",
     "wof:parent_id": 1947304513,
     "wof:placetype": "custom",

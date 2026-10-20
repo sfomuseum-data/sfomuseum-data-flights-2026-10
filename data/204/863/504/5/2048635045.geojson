@@ -2,10 +2,12 @@
   "id": 2048635045,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-19",
+    "date:cessation_upper": "2026-10-19",
     "date:inception_lower": "2026-10-19",
     "date:inception_upper": "2026-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-19",
+    "edtf:cessation": "2026-10-19T18:10:52Z",
+    "edtf:inception": "2026-10-19T14:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-19",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.8002995,
     "geom:longitude": -106.31638749999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530009,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37456",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160205655"
+    },
     "wof:country": "US",
     "wof:created": 1792513037,
     "wof:geomhash": "8b4edcad4124de1c487808d2d2d1ecd3",
@@ -86,9 +98,10 @@
       102530009,
       102527513,
       1159285413,
-      1947304529
+      1947304529,
+      1377564285
     ],
-    "wof:lastmodified": 1792513037,
+    "wof:lastmodified": 1792513258,
     "wof:name": "UA2119 (SFO-MSY)",
     "wof:parent_id": 1947304529,
     "wof:placetype": "custom",

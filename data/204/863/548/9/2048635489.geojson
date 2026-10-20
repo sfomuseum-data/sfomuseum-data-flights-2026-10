@@ -2,10 +2,12 @@
   "id": 2048635489,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-20",
+    "date:cessation_upper": "2026-10-20",
     "date:inception_lower": "2026-10-19",
     "date:inception_upper": "2026-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-19",
+    "edtf:cessation": "2026-10-20T00:29:38Z",
+    "edtf:inception": "2026-10-19T19:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-19",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "160236566"
+    },
     "wof:country": "US",
     "wof:created": 1792513086,
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
@@ -51,7 +59,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1792513086,
+    "wof:lastmodified": 1792513272,
     "wof:name": "UA8167 (SFO-MCO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

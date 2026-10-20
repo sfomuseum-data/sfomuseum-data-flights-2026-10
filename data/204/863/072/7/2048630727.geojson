@@ -2,10 +2,12 @@
   "id": 2048630727,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-19",
+    "date:cessation_upper": "2026-10-19",
     "date:inception_lower": "2026-10-19",
     "date:inception_upper": "2026-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-19",
+    "edtf:cessation": "2026-10-19T13:09:13-07:00",
+    "edtf:inception": "2026-10-19T22:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-19",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.627254,
     "geom:longitude": -103.4008145,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526927,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N57299",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160250455"
+    },
     "wof:country": "US",
     "wof:created": 1792512546,
     "wof:geomhash": "ae92617dd2aca2afdb0c9096232ff0bb",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048630727,
     "wof:involves": [
+      1528104575,
       102527513,
       102526927,
       1159285413,
       1947304459
     ],
-    "wof:lastmodified": 1792512546,
+    "wof:lastmodified": 1792513222,
     "wof:name": "UA2866 (ATL-SFO)",
     "wof:parent_id": 1947304459,
     "wof:placetype": "custom",

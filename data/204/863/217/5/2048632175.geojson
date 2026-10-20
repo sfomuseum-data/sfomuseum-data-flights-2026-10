@@ -2,10 +2,12 @@
   "id": 2048632175,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-20",
+    "date:cessation_upper": "2026-10-20",
     "date:inception_lower": "2026-10-19",
     "date:inception_upper": "2026-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-19",
+    "edtf:cessation": "2026-10-20T01:14:21Z",
+    "edtf:inception": "2026-10-19T20:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160242208"
+    },
     "wof:country": "US",
     "wof:created": 1792512711,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -94,7 +102,7 @@
       1947304603,
       1159283697
     ],
-    "wof:lastmodified": 1792512711,
+    "wof:lastmodified": 1792513233,
     "wof:name": "AC742 (SFO-YYZ)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

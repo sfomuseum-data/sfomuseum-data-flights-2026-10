@@ -2,10 +2,12 @@
   "id": 2048634471,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-19",
-    "date:inception_upper": "2026-10-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-19",
+    "date:cessation_lower": "2026-10-20",
+    "date:cessation_upper": "2026-10-20",
+    "date:inception_lower": "2026-10-20",
+    "date:inception_upper": "2026-10-20",
+    "edtf:cessation": "2026-10-20T02:44:55Z",
+    "edtf:inception": "2026-10-20T01:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-19",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160248460"
+    },
     "wof:country": "US",
     "wof:created": 1792512972,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -88,7 +96,7 @@
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1792512972,
+    "wof:lastmodified": 1792513253,
     "wof:name": "WN1085 (SFO-SAN)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",
