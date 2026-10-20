@@ -1,0 +1,72 @@
+{
+  "id": 2048629405,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-19",
+    "date:inception_upper": "2026-10-19",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-19",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "HA",
+    "flysfo:date": "2026-10-19",
+    "flysfo:estimated_timestamp": 1792429500,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "HA923",
+    "flysfo:gate": "",
+    "flysfo:journey": "OAK-SFO",
+    "flysfo:scheduled_timestamp": 1792427400,
+    "flysfo:timestamp": 1792429500,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.212464,37.721310",
+    "geom:latitude": 37.669650000000004,
+    "geom:longitude": -122.2917035,
+    "iata:airline": "HA",
+    "icao:airline": "HAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284489,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531041,
+    "sfomuseum:flight_id": "20261019-A-HAL-923",
+    "sfomuseum:flight_number": [
+      "HAL923",
+      "HA923"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1792512395,
+    "wof:geomhash": "ef262e0da13c3e8dd354e2b42ae8d539",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048629405,
+        "flight_id": 2048629405
+      }
+    ],
+    "wof:id": 2048629405,
+    "wof:involves": [
+      102527513,
+      102531041,
+      1159284489,
+      -1
+    ],
+    "wof:lastmodified": 1792512395,
+    "wof:name": "HA923 (OAK-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -122.212464,
+    37.72131
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.212464,37.72131],[-122.370943,37.61799]]}
+}
