@@ -2,10 +2,12 @@
   "id": 2048643547,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-21",
+    "date:cessation_upper": "2026-10-21",
     "date:inception_lower": "2026-10-20",
     "date:inception_upper": "2026-10-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-20",
+    "edtf:cessation": "2026-10-21T00:24:18Z",
+    "edtf:inception": "2026-10-20T23:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160343247"
+    },
     "wof:country": "US",
     "wof:created": 1792599415,
     "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
@@ -94,7 +102,7 @@
       1947304463,
       1159285749
     ],
-    "wof:lastmodified": 1792599415,
+    "wof:lastmodified": 1792599594,
     "wof:name": "UA502 (SFO-EUG)",
     "wof:parent_id": 1947304463,
     "wof:placetype": "custom",

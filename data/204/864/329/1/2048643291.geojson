@@ -2,10 +2,12 @@
   "id": 2048643291,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-20",
+    "date:cessation_upper": "2026-10-20",
     "date:inception_lower": "2026-10-20",
     "date:inception_upper": "2026-10-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-20",
+    "edtf:cessation": "2026-10-20T09:37:14Z",
+    "edtf:inception": "2026-10-20T05:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160269693"
+    },
     "wof:country": "US",
     "wof:created": 1792599385,
     "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
@@ -94,7 +99,7 @@
       1947304495,
       1159283697
     ],
-    "wof:lastmodified": 1792599385,
+    "wof:lastmodified": 1792599592,
     "wof:name": "UA1702 (SFO-TPA)",
     "wof:parent_id": 1947304495,
     "wof:placetype": "custom",

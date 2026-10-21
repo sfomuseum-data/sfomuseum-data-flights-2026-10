@@ -2,10 +2,12 @@
   "id": 2048643319,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-20",
-    "date:inception_upper": "2026-10-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-20",
+    "date:cessation_lower": "2026-10-21",
+    "date:cessation_upper": "2026-10-21",
+    "date:inception_lower": "2026-10-21",
+    "date:inception_upper": "2026-10-21",
+    "edtf:cessation": "2026-10-21T02:06:08Z",
+    "edtf:inception": "2026-10-21T01:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.98042749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530559,
     "sfomuseum:base_flight_id": "20261020-D-ACA-4530",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N68801",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160269051"
+    },
     "wof:country": "US",
     "wof:created": 1792599388,
     "wof:geomhash": "5cb31017412a00ced54cc35c2a74371e",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048643319,
     "wof:involves": [
+      1377564285,
       102530559,
       102527513,
       1159285413,
       1947304529,
       1159283597
     ],
-    "wof:lastmodified": 1792599388,
+    "wof:lastmodified": 1792599592,
     "wof:name": "UA1862 (SFO-SMF)",
     "wof:parent_id": 1947304529,
     "wof:placetype": "custom",

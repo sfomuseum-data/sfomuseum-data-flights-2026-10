@@ -2,10 +2,12 @@
   "id": 2048639203,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-20",
-    "date:inception_upper": "2026-10-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-20",
+    "date:cessation_lower": "2026-10-21",
+    "date:cessation_upper": "2026-10-21",
+    "date:inception_lower": "2026-10-21",
+    "date:inception_upper": "2026-10-21",
+    "edtf:cessation": "2026-10-21T05:02:30Z",
+    "edtf:inception": "2026-10-21T01:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160263997"
+    },
     "wof:country": "US",
     "wof:created": 1792598904,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -94,7 +102,7 @@
       1947304481,
       1159283597
     ],
-    "wof:lastmodified": 1792598904,
+    "wof:lastmodified": 1792599559,
     "wof:name": "UA1204 (AUS-SFO)",
     "wof:parent_id": 1947304481,
     "wof:placetype": "custom",

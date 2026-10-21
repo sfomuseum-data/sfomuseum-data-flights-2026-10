@@ -2,10 +2,12 @@
   "id": 2048639533,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-20",
+    "date:cessation_upper": "2026-10-20",
     "date:inception_lower": "2026-10-20",
     "date:inception_upper": "2026-10-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-20",
+    "edtf:cessation": "2026-10-20T02:56:08-07:00",
+    "edtf:inception": "2026-10-20T12:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.283618000000004,
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620818,
     "lbl:longitude": -122.389182,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528817,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2333U",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160278158"
+    },
     "wof:country": "US",
     "wof:created": 1792598942,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -86,9 +98,10 @@
       102527513,
       102528817,
       1159285413,
-      1947304455
+      1947304455,
+      1159289993
     ],
-    "wof:lastmodified": 1792598942,
+    "wof:lastmodified": 1792599564,
     "wof:name": "UA3774 (IAD-SFO)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

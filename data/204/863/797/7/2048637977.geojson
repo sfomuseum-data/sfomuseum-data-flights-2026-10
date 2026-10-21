@@ -2,10 +2,12 @@
   "id": 2048637977,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-20",
-    "date:inception_upper": "2026-10-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-20",
+    "date:cessation_lower": "2026-10-20",
+    "date:cessation_upper": "2026-10-20",
+    "date:inception_lower": "2026-10-21",
+    "date:inception_upper": "2026-10-21",
+    "edtf:cessation": "2026-10-20T14:51:40-07:00",
+    "edtf:inception": "2026-10-21T04:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261020-A-AMX-3095",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N517DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160269162"
+    },
     "wof:country": "US",
     "wof:created": 1792598756,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048637977,
     "wof:involves": [
+      1159283539,
+      1377564297,
       102527513,
       102533795,
       1159284261,
-      1763588251,
-      1159283539
+      1763588251
     ],
-    "wof:lastmodified": 1792598756,
+    "wof:lastmodified": 1792599537,
     "wof:name": "DL2986 (LAX-SFO)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

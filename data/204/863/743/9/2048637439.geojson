@@ -2,10 +2,12 @@
   "id": 2048637439,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-20",
-    "date:inception_upper": "2026-10-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-20",
+    "date:cessation_lower": "2026-10-20",
+    "date:cessation_upper": "2026-10-20",
+    "date:inception_lower": "2026-10-21",
+    "date:inception_upper": "2026-10-21",
+    "edtf:cessation": "2026-10-20T16:36:02-07:00",
+    "edtf:inception": "2026-10-21T01:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2026-10-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 28.675217,
     "geom:longitude": -139.2030015,
     "iata:airline": "AS",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532939,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N732AL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160264958"
+    },
     "wof:country": "US",
     "wof:created": 1792598692,
     "wof:geomhash": "d5ad4a83d3d679d1b3fe86e419b08d84",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048637439,
     "wof:involves": [
+      1528104577,
       102527513,
       102532939,
       1159283813,
       1947304289
     ],
-    "wof:lastmodified": 1792598692,
+    "wof:lastmodified": 1792599531,
     "wof:name": "AS404 (KOA-SFO)",
     "wof:parent_id": 1947304289,
     "wof:placetype": "custom",
