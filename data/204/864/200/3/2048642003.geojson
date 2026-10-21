@@ -1,0 +1,72 @@
+{
+  "id": 2048642003,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-20",
+    "date:inception_upper": "2026-10-20",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-20",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-10-20",
+    "flysfo:estimated_timestamp": 1792526400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL8926",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1792526400,
+    "flysfo:timestamp": 1792526400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102533795,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261020-D-DAL-8926",
+    "sfomuseum:flight_number": [
+      "DAL8926",
+      "DL8926"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1792599231,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048642003,
+        "flight_id": 2048642003
+      }
+    ],
+    "wof:id": 2048642003,
+    "wof:involves": [
+      102533795,
+      102527513,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1792599231,
+    "wof:name": "DL8926 (SFO-LAX)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    33.942593,
+    -118.38951,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]]}
+}
