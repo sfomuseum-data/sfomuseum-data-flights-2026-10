@@ -2,10 +2,12 @@
   "id": 2048652439,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-21",
+    "date:cessation_upper": "2026-10-21",
     "date:inception_lower": "2026-10-21",
     "date:inception_upper": "2026-10-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-21",
+    "edtf:cessation": "2026-10-21T18:48:54Z",
+    "edtf:inception": "2026-10-21T17:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160397476"
+    },
     "wof:country": "US",
     "wof:created": 1792685840,
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
@@ -94,7 +102,7 @@
       1947304603,
       1159283597
     ],
-    "wof:lastmodified": 1792685840,
+    "wof:lastmodified": 1792686019,
     "wof:name": "UA605 (SFO-BOI)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

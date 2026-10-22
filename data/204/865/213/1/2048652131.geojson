@@ -2,10 +2,12 @@
   "id": 2048652131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-21",
+    "date:cessation_upper": "2026-10-21",
     "date:inception_lower": "2026-10-21",
     "date:inception_upper": "2026-10-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-21",
+    "edtf:cessation": "2026-10-21T23:12:31Z",
+    "edtf:inception": "2026-10-21T19:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.576414,
     "geom:longitude": -110.4218635,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618578,
     "lbl:longitude": -122.385434,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527373,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N874UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160409845"
+    },
     "wof:country": "US",
     "wof:created": 1792685806,
     "wof:geomhash": "3d1812cb234aac8b643ea0201167e576",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048652131,
     "wof:involves": [
+      1159289407,
       102527373,
       102527513,
       1159285413,
       1947304495
     ],
-    "wof:lastmodified": 1792685806,
+    "wof:lastmodified": 1792686000,
     "wof:name": "UA2365 (SFO-SAT)",
     "wof:parent_id": 1947304495,
     "wof:placetype": "custom",

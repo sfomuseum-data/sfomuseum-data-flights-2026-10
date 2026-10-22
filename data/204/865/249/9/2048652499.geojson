@@ -2,10 +2,12 @@
   "id": 2048652499,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-21",
+    "date:cessation_upper": "2026-10-21",
     "date:inception_lower": "2026-10-21",
     "date:inception_upper": "2026-10-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-21",
+    "edtf:cessation": "2026-10-21T03:37:58Z",
+    "edtf:inception": "2026-10-21T00:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160345389"
+    },
     "wof:country": "US",
     "wof:created": 1792685846,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -94,7 +99,7 @@
       1947304627,
       1159283697
     ],
-    "wof:lastmodified": 1792685846,
+    "wof:lastmodified": 1792686020,
     "wof:name": "UA8128 (SFO-YYZ)",
     "wof:parent_id": 1947304627,
     "wof:placetype": "custom",
