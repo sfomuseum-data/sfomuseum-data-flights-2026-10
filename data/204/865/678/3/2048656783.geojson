@@ -2,10 +2,12 @@
   "id": 2048656783,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-22",
+    "date:cessation_upper": "2026-10-22",
     "date:inception_lower": "2026-10-22",
     "date:inception_upper": "2026-10-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-22",
+    "edtf:cessation": "2026-10-22T23:46:01Z",
+    "edtf:inception": "2026-10-22T23:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160515062"
+    },
     "wof:country": "US",
     "wof:created": 1792771760,
     "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
@@ -94,7 +102,7 @@
       1947304523,
       1159283597
     ],
-    "wof:lastmodified": 1792771760,
+    "wof:lastmodified": 1792772450,
     "wof:name": "UA2279 (RNO-SFO)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048656907,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-22",
+    "date:cessation_upper": "2026-10-22",
     "date:inception_lower": "2026-10-22",
     "date:inception_upper": "2026-10-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-22",
+    "edtf:cessation": "2026-10-22T14:39:08-07:00",
+    "edtf:inception": "2026-10-22T23:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.2547305,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "AZU",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261022-A-AZU-7006",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N77584",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160513726"
+    },
     "wof:country": "US",
     "wof:created": 1792771774,
     "wof:geomhash": "d17d7e3187ba5afa3de1a7310fca2526",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048656907,
     "wof:involves": [
-      102527513,
       102530841,
       1159285413,
       1947304515,
-      1779770723
+      1779770723,
+      1528104577,
+      102527513
     ],
-    "wof:lastmodified": 1792771774,
+    "wof:lastmodified": 1792772454,
     "wof:name": "UA313 (FLL-SFO)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

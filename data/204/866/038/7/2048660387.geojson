@@ -2,10 +2,12 @@
   "id": 2048660387,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-23",
+    "date:cessation_upper": "2026-10-23",
     "date:inception_lower": "2026-10-22",
     "date:inception_upper": "2026-10-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-22",
+    "edtf:cessation": "2026-10-23T00:36:25Z",
+    "edtf:inception": "2026-10-22T23:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2026-10-22",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160439709"
+    },
     "wof:country": "US",
     "wof:created": 1792772173,
     "wof:geomhash": "b4d056e1d6e58dcf382167f77162f897",
@@ -88,7 +96,7 @@
       1763552131,
       1947304673
     ],
-    "wof:lastmodified": 1792772173,
+    "wof:lastmodified": 1792772493,
     "wof:name": "MX1066 (SFO-SBD)",
     "wof:parent_id": 1947304673,
     "wof:placetype": "custom",

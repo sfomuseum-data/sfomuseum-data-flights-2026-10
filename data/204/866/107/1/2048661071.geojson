@@ -2,10 +2,12 @@
   "id": 2048661071,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-22",
+    "date:cessation_upper": "2026-10-22",
     "date:inception_lower": "2026-10-22",
     "date:inception_upper": "2026-10-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-22",
+    "edtf:cessation": "2026-10-22T11:34:43Z",
+    "edtf:inception": "2026-10-22T06:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160450893"
+    },
     "wof:country": "US",
     "wof:created": 1792772251,
     "wof:geomhash": "60b8ec845b4af47518c8aaafc3d98633",
@@ -94,7 +99,7 @@
       1947304523,
       1159283597
     ],
-    "wof:lastmodified": 1792772251,
+    "wof:lastmodified": 1792772498,
     "wof:name": "UA1508 (SFO-YUL)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

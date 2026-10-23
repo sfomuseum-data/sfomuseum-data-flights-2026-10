@@ -2,10 +2,12 @@
   "id": 2048661433,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-22",
-    "date:inception_upper": "2026-10-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-22",
+    "date:cessation_lower": "2026-10-23",
+    "date:cessation_upper": "2026-10-23",
+    "date:inception_lower": "2026-10-23",
+    "date:inception_upper": "2026-10-23",
+    "edtf:cessation": "2026-10-23T12:08:00Z",
+    "edtf:inception": "2026-10-23T00:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160435630"
+    },
     "wof:country": "US",
     "wof:created": 1792772292,
     "wof:geomhash": "033526ec5f586bb6dd7c4e05cd770e88",
@@ -94,7 +102,7 @@
       1947304149,
       1159283597
     ],
-    "wof:lastmodified": 1792772292,
+    "wof:lastmodified": 1792772502,
     "wof:name": "UA507 (SFO-FCO)",
     "wof:parent_id": 1947304149,
     "wof:placetype": "custom",

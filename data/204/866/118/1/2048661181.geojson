@@ -2,10 +2,12 @@
   "id": 2048661181,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-22",
+    "date:cessation_upper": "2026-10-22",
     "date:inception_lower": "2026-10-22",
     "date:inception_upper": "2026-10-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-22",
+    "edtf:cessation": "2026-10-22T19:35:12Z",
+    "edtf:inception": "2026-10-22T15:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.315247,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528181,
     "sfomuseum:base_flight_id": "20261022-D-ANZ-9391",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17341",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160477287"
+    },
     "wof:country": "US",
     "wof:created": 1792772264,
     "wof:geomhash": "d7bea1763df143b6882335af1c301bcf",
@@ -92,9 +104,10 @@
       102527513,
       1159285413,
       1947304609,
-      1159283697
+      1159283697,
+      1528104575
     ],
-    "wof:lastmodified": 1792772264,
+    "wof:lastmodified": 1792772499,
     "wof:name": "UA1954 (SFO-PIT)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048659683,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-22",
-    "date:inception_upper": "2026-10-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-22",
+    "date:cessation_lower": "2026-10-23",
+    "date:cessation_upper": "2026-10-23",
+    "date:inception_lower": "2026-10-23",
+    "date:inception_upper": "2026-10-23",
+    "edtf:cessation": "2026-10-23T01:29:59Z",
+    "edtf:inception": "2026-10-23T00:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160435636"
+    },
     "wof:country": "US",
     "wof:created": 1792772092,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -94,7 +102,7 @@
       1947304669,
       1159284625
     ],
-    "wof:lastmodified": 1792772092,
+    "wof:lastmodified": 1792772487,
     "wof:name": "DL2267 (SFO-LAX)",
     "wof:parent_id": 1947304669,
     "wof:placetype": "custom",

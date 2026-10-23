@@ -2,10 +2,12 @@
   "id": 2048656263,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-23",
+    "date:cessation_upper": "2026-10-23",
     "date:inception_lower": "2026-10-22",
     "date:inception_upper": "2026-10-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-22",
+    "edtf:cessation": "2026-10-22T17:10:35-07:00",
+    "edtf:inception": "2026-10-22T02:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-22",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.702760999999995,
     "geom:longitude": -105.058423,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531205,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N8526W",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "160444215"
+    },
     "wof:country": "US",
     "wof:created": 1792771699,
     "wof:geomhash": "bbd014edfd8455b7d9e062bec23e52e6",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048656263,
     "wof:involves": [
-      102527513,
-      102531205,
       1159285591,
-      -1
+      1159289871,
+      102527513,
+      102531205
     ],
-    "wof:lastmodified": 1792771699,
+    "wof:lastmodified": 1792772445,
     "wof:name": "WN4327 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
