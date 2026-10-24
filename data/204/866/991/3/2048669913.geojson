@@ -2,10 +2,12 @@
   "id": 2048669913,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-24",
+    "date:cessation_upper": "2026-10-24",
     "date:inception_lower": "2026-10-23",
     "date:inception_upper": "2026-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-23",
+    "edtf:cessation": "2026-10-24T00:26:33Z",
+    "edtf:inception": "2026-10-23T23:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-23",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160624436"
+    },
     "wof:country": "US",
     "wof:created": 1792858580,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -88,7 +96,7 @@
       1159285591,
       1947304621
     ],
-    "wof:lastmodified": 1792858580,
+    "wof:lastmodified": 1792858844,
     "wof:name": "WN3787 (SFO-SAN)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",

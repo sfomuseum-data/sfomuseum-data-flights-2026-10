@@ -2,10 +2,12 @@
   "id": 2048670569,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-23",
+    "date:cessation_upper": "2026-10-23",
     "date:inception_lower": "2026-10-23",
     "date:inception_upper": "2026-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-23",
+    "edtf:cessation": "2026-10-23T01:19:46Z",
+    "edtf:inception": "2026-10-23T00:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160531509"
+    },
     "wof:country": "US",
     "wof:created": 1792858653,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -94,7 +102,7 @@
       1947304491,
       1159284333
     ],
-    "wof:lastmodified": 1792858653,
+    "wof:lastmodified": 1792858849,
     "wof:name": "UA2770 (SFO-IAH)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",

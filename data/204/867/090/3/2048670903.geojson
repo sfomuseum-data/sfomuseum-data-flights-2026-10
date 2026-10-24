@@ -2,10 +2,12 @@
   "id": 2048670903,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-23",
+    "date:cessation_upper": "2026-10-23",
     "date:inception_lower": "2026-10-23",
     "date:inception_upper": "2026-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-23",
+    "edtf:cessation": "2026-10-23T12:34:27Z",
+    "edtf:inception": "2026-10-23T07:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-23",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "160547260"
+    },
     "wof:country": "US",
     "wof:created": 1792858690,
     "wof:geomhash": "60b8ec845b4af47518c8aaafc3d98633",
@@ -51,7 +56,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1792858690,
+    "wof:lastmodified": 1792858854,
     "wof:name": "UA8208 (SFO-YUL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048665765,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-23",
+    "date:cessation_upper": "2026-10-23",
     "date:inception_lower": "2026-10-23",
     "date:inception_upper": "2026-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-23",
+    "edtf:cessation": "2026-10-23T10:22:05-07:00",
+    "edtf:inception": "2026-10-23T19:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.8087165,
     "geom:longitude": -102.62808,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532255,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N14230",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160604503"
+    },
     "wof:country": "US",
     "wof:created": 1792858107,
     "wof:geomhash": "980d68d8d28509c0742a6b2a7abf5f67",
@@ -86,9 +98,10 @@
       102527513,
       102532255,
       1159285413,
-      1947304473
+      1947304473,
+      1159289871
     ],
-    "wof:lastmodified": 1792858107,
+    "wof:lastmodified": 1792858790,
     "wof:name": "UA1354 (CMH-SFO)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048670417,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-23",
-    "date:inception_upper": "2026-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-23",
+    "date:cessation_lower": "2026-10-24",
+    "date:cessation_upper": "2026-10-24",
+    "date:inception_lower": "2026-10-24",
+    "date:inception_upper": "2026-10-24",
+    "edtf:cessation": "2026-10-24T02:46:05Z",
+    "edtf:inception": "2026-10-24T02:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160538861"
+    },
     "wof:country": "US",
     "wof:created": 1792858636,
     "wof:geomhash": "5815a5b1ad78885fe3ae36c1daab138f",
@@ -94,7 +102,7 @@
       1947304609,
       1159284333
     ],
-    "wof:lastmodified": 1792858636,
+    "wof:lastmodified": 1792858848,
     "wof:name": "UA2022 (SFO-ACV)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048666111,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-23",
-    "date:inception_upper": "2026-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-23",
+    "date:cessation_lower": "2026-10-23",
+    "date:cessation_upper": "2026-10-23",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-10-23T13:07:51-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 44.9663905,
     "geom:longitude": -58.794018,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61776,
     "lbl:longitude": -122.3918,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102542801,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N786UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +92,13 @@
     ],
     "wof:id": 2048666111,
     "wof:involves": [
-      102527513,
-      102542801,
       1159285413,
-      1947304137
+      1947304137,
+      1159289985,
+      102527513,
+      102542801
     ],
-    "wof:lastmodified": 1792858147,
+    "wof:lastmodified": 1792858794,
     "wof:name": "UA3907 (AMS-SFO)",
     "wof:parent_id": 1947304137,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048670895,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-23",
+    "date:cessation_upper": "2026-10-23",
     "date:inception_lower": "2026-10-23",
     "date:inception_upper": "2026-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-23",
+    "edtf:cessation": "2026-10-23T18:36:13Z",
+    "edtf:inception": "2026-10-23T13:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,7 +41,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "160565233"
+    },
     "wof:country": "US",
     "wof:created": 1792858689,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -57,7 +65,7 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1792858689,
+    "wof:lastmodified": 1792858854,
     "wof:name": "UA8128 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

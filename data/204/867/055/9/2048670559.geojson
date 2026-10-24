@@ -2,10 +2,12 @@
   "id": 2048670559,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-23",
+    "date:cessation_upper": "2026-10-23",
     "date:inception_lower": "2026-10-23",
     "date:inception_upper": "2026-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-23",
+    "edtf:cessation": "2026-10-23T21:18:20Z",
+    "edtf:inception": "2026-10-23T16:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160581428"
+    },
     "wof:country": "US",
     "wof:created": 1792858652,
     "wof:geomhash": "ff243e97b2d4ce40e0a4accb79115371",
@@ -94,7 +102,7 @@
       1947304455,
       1159283697
     ],
-    "wof:lastmodified": 1792858652,
+    "wof:lastmodified": 1792858849,
     "wof:name": "UA2664 (SFO-BWI)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

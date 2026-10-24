@@ -2,10 +2,12 @@
   "id": 2048670887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-23",
+    "date:cessation_upper": "2026-10-23",
     "date:inception_lower": "2026-10-23",
     "date:inception_upper": "2026-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-23",
+    "edtf:cessation": "2026-10-23T21:07:15Z",
+    "edtf:inception": "2026-10-23T17:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.674126,
     "geom:longitude": -104.324809,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534155,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N57286",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "160587316"
+    },
     "wof:country": "US",
     "wof:created": 1792858689,
     "wof:geomhash": "75b67362ad403f806ec665af17b684aa",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048670887,
     "wof:involves": [
-      102534155,
-      102527513,
       1159285413,
-      -1
+      1528104575,
+      102534155,
+      102527513
     ],
-    "wof:lastmodified": 1792858689,
+    "wof:lastmodified": 1792858854,
     "wof:name": "UA8127 (SFO-IND)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

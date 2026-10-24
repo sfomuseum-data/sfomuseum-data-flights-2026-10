@@ -2,10 +2,12 @@
   "id": 2048670893,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-24",
+    "date:cessation_upper": "2026-10-24",
     "date:inception_lower": "2026-10-23",
     "date:inception_upper": "2026-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-23",
+    "edtf:cessation": "2026-10-24T00:46:18Z",
+    "edtf:inception": "2026-10-23T19:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.0247425,
     "geom:longitude": -101.83923999999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533657,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17427",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "160548143"
+    },
     "wof:country": "US",
     "wof:created": 1792858689,
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048670893,
     "wof:involves": [
+      1528104577,
       102533657,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1792858689,
+    "wof:lastmodified": 1792858854,
     "wof:name": "UA8140 (SFO-MCO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

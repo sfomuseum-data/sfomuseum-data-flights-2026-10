@@ -2,10 +2,12 @@
   "id": 2048670937,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-24",
+    "date:cessation_upper": "2026-10-24",
     "date:inception_lower": "2026-10-23",
     "date:inception_upper": "2026-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-23",
+    "edtf:cessation": "2026-10-24T05:26:13Z",
+    "edtf:inception": "2026-10-23T17:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160589908"
+    },
     "wof:country": "US",
     "wof:created": 1792858694,
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
@@ -94,7 +102,7 @@
       1947304155,
       1159283917
     ],
-    "wof:lastmodified": 1792858694,
+    "wof:lastmodified": 1792858854,
     "wof:name": "UA893 (SFO-ICN)",
     "wof:parent_id": 1947304155,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048668891,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-23",
+    "date:cessation_upper": "2026-10-23",
     "date:inception_lower": "2026-10-23",
     "date:inception_upper": "2026-10-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-23",
+    "edtf:cessation": "2026-10-23T23:51:03Z",
+    "edtf:inception": "2026-10-23T18:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160597877"
+    },
     "wof:country": "US",
     "wof:created": 1792858464,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -94,7 +102,7 @@
       1947304681,
       1159283627
     ],
-    "wof:lastmodified": 1792858464,
+    "wof:lastmodified": 1792858837,
     "wof:name": "DL668 (SFO-JFK)",
     "wof:parent_id": 1947304681,
     "wof:placetype": "custom",
