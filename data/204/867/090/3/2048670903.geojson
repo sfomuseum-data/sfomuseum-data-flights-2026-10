@@ -1,0 +1,72 @@
+{
+  "id": 2048670903,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-23",
+    "date:inception_upper": "2026-10-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-23",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-10-23",
+    "flysfo:estimated_timestamp": 1792739040,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8208",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-YUL",
+    "flysfo:scheduled_timestamp": 1792739040,
+    "flysfo:timestamp": 1792739040,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-73.744749,45.462004",
+    "geom:latitude": 41.539997,
+    "geom:longitude": -98.057846,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102554351,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261023-D-UAL-8208",
+    "sfomuseum:flight_number": [
+      "UAL8208",
+      "UA8208"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1792858690,
+    "wof:geomhash": "60b8ec845b4af47518c8aaafc3d98633",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048670903,
+        "flight_id": 2048670903
+      }
+    ],
+    "wof:id": 2048670903,
+    "wof:involves": [
+      102554351,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1792858690,
+    "wof:name": "UA8208 (SFO-YUL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -73.744749,
+    45.462004
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-73.744749,45.462004]]}
+}
