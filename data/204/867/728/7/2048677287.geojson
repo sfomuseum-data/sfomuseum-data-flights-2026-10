@@ -2,10 +2,12 @@
   "id": 2048677287,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-25",
+    "date:cessation_upper": "2026-10-25",
     "date:inception_lower": "2026-10-24",
     "date:inception_upper": "2026-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-24",
+    "edtf:cessation": "2026-10-25T07:37:42Z",
+    "edtf:inception": "2026-10-24T19:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MU",
     "flysfo:date": "2026-10-24",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160690872"
+    },
     "wof:country": "US",
     "wof:created": 1792944719,
     "wof:geomhash": "014430cde1a85b033fb3b4a447168595",
@@ -88,7 +96,7 @@
       1159284157,
       1947304097
     ],
-    "wof:lastmodified": 1792944719,
+    "wof:lastmodified": 1792945064,
     "wof:name": "MU590 (SFO-PVG)",
     "wof:parent_id": 1947304097,
     "wof:placetype": "custom",

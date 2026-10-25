@@ -2,10 +2,12 @@
   "id": 2048677377,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-24",
+    "date:cessation_upper": "2026-10-24",
     "date:inception_lower": "2026-10-24",
     "date:inception_upper": "2026-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-24",
+    "edtf:cessation": "2026-10-24T21:36:45Z",
+    "edtf:inception": "2026-10-24T08:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CX",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160643785"
+    },
     "wof:country": "US",
     "wof:created": 1792944728,
     "wof:geomhash": "b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
@@ -94,7 +102,7 @@
       1947304085,
       1159283813
     ],
-    "wof:lastmodified": 1792944728,
+    "wof:lastmodified": 1792945065,
     "wof:name": "CX2873 (SFO-HKG)",
     "wof:parent_id": 1947304085,
     "wof:placetype": "custom",

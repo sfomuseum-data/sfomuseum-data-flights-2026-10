@@ -2,10 +2,12 @@
   "id": 2048677511,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-24",
+    "date:cessation_upper": "2026-10-24",
     "date:inception_lower": "2026-10-24",
     "date:inception_upper": "2026-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-24",
+    "edtf:cessation": "2026-10-24T13:35:18Z",
+    "edtf:inception": "2026-10-24T08:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-10-24",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160643358"
+    },
     "wof:country": "US",
     "wof:created": 1792944743,
     "wof:geomhash": "739cf7062aa24bbf1662c0bae366af8d",
@@ -88,7 +96,7 @@
       1159284261,
       1947304299
     ],
-    "wof:lastmodified": 1792944743,
+    "wof:lastmodified": 1792945067,
     "wof:name": "DL8908 (SFO-RDU)",
     "wof:parent_id": 1947304299,
     "wof:placetype": "custom",

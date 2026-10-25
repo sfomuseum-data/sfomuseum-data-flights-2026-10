@@ -2,10 +2,12 @@
   "id": 2048671743,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-24",
+    "date:cessation_upper": "2026-10-24",
     "date:inception_lower": "2026-10-24",
     "date:inception_upper": "2026-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-24",
+    "edtf:cessation": "2026-10-24T16:58:39Z",
+    "edtf:inception": "2026-10-24T11:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160649204"
+    },
     "wof:country": "US",
     "wof:created": 1792944089,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -94,7 +102,7 @@
       1947304317,
       1159285081
     ],
-    "wof:lastmodified": 1792944089,
+    "wof:lastmodified": 1792944994,
     "wof:name": "AA76 (JFK-SFO)",
     "wof:parent_id": 1947304317,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048674735,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-25",
+    "date:cessation_upper": "2026-10-25",
     "date:inception_lower": "2026-10-24",
     "date:inception_upper": "2026-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-24",
+    "edtf:cessation": "2026-10-24T23:50:05-07:00",
+    "edtf:inception": "2026-10-24T12:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.459714,
     "geom:longitude": -109.134272,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102524739,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N87527",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160652532"
+    },
     "wof:country": "US",
     "wof:created": 1792944441,
     "wof:geomhash": "a4023a41644574291fc7580f5443d9f4",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048674735,
     "wof:involves": [
+      1159289871,
       102527513,
       102524739,
       1159285413,
       1947304525
     ],
-    "wof:lastmodified": 1792944441,
+    "wof:lastmodified": 1792945030,
     "wof:name": "UA1623 (OMA-SFO)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

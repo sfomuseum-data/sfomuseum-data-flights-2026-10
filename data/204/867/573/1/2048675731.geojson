@@ -2,10 +2,12 @@
   "id": 2048675731,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-24",
-    "date:inception_upper": "2026-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-24",
+    "date:cessation_lower": "2026-10-25",
+    "date:cessation_upper": "2026-10-25",
+    "date:inception_lower": "2026-10-25",
+    "date:inception_upper": "2026-10-25",
+    "edtf:cessation": "2026-10-25T03:48:08Z",
+    "edtf:inception": "2026-10-25T00:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160632652"
+    },
     "wof:country": "US",
     "wof:created": 1792944550,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -94,7 +102,7 @@
       1947304317,
       1159285043
     ],
-    "wof:lastmodified": 1792944550,
+    "wof:lastmodified": 1792945046,
     "wof:name": "AA2325 (SFO-DFW)",
     "wof:parent_id": 1947304317,
     "wof:placetype": "custom",

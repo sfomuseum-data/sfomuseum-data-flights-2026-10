@@ -2,10 +2,12 @@
   "id": 2048677457,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-24",
+    "date:cessation_upper": "2026-10-24",
     "date:inception_lower": "2026-10-24",
     "date:inception_upper": "2026-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-24",
+    "edtf:cessation": "2026-10-24T21:10:42Z",
+    "edtf:inception": "2026-10-24T15:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-10-24",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "160671860"
+    },
     "wof:country": "US",
     "wof:created": 1792944737,
     "wof:geomhash": "d81f35c9bd76192177056b7c45b4498c",
@@ -51,7 +59,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1792944737,
+    "wof:lastmodified": 1792945066,
     "wof:name": "DL425 (SFO-RDD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

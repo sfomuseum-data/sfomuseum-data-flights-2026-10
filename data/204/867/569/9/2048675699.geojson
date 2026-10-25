@@ -2,10 +2,12 @@
   "id": 2048675699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-24",
+    "date:cessation_upper": "2026-10-24",
     "date:inception_lower": "2026-10-24",
     "date:inception_upper": "2026-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-24",
+    "edtf:cessation": "2026-10-24T23:56:58Z",
+    "edtf:inception": "2026-10-24T18:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160689834"
+    },
     "wof:country": "US",
     "wof:created": 1792944547,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -94,7 +102,7 @@
       1947304291,
       1159284021
     ],
-    "wof:lastmodified": 1792944547,
+    "wof:lastmodified": 1792945045,
     "wof:name": "AA1934 (SFO-MIA)",
     "wof:parent_id": 1947304291,
     "wof:placetype": "custom",

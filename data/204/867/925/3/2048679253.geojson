@@ -2,10 +2,12 @@
   "id": 2048679253,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-24",
-    "date:inception_upper": "2026-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-24",
+    "date:cessation_lower": "2026-10-25",
+    "date:cessation_upper": "2026-10-25",
+    "date:inception_lower": "2026-10-25",
+    "date:inception_upper": "2026-10-25",
+    "edtf:cessation": "2026-10-25T10:40:57Z",
+    "edtf:inception": "2026-10-25T01:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160638291"
+    },
     "wof:country": "US",
     "wof:created": 1792944932,
     "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
@@ -94,7 +102,7 @@
       1947304155,
       1159283597
     ],
-    "wof:lastmodified": 1792944932,
+    "wof:lastmodified": 1792945107,
     "wof:name": "UA930 (SFO-LHR)",
     "wof:parent_id": 1947304155,
     "wof:placetype": "custom",

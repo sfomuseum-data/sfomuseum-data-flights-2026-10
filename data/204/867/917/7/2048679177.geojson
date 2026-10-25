@@ -2,10 +2,12 @@
   "id": 2048679177,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-24",
+    "date:cessation_upper": "2026-10-24",
     "date:inception_lower": "2026-10-24",
     "date:inception_upper": "2026-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-24",
+    "edtf:cessation": "2026-10-24T21:13:35Z",
+    "edtf:inception": "2026-10-24T19:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160693092"
+    },
     "wof:country": "US",
     "wof:created": 1792944923,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -94,7 +102,7 @@
       1947304517,
       1159283597
     ],
-    "wof:lastmodified": 1792944923,
+    "wof:lastmodified": 1792945107,
     "wof:name": "UA779 (SFO-PHX)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",

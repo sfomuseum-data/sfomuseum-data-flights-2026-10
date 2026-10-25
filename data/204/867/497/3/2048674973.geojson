@@ -2,10 +2,12 @@
   "id": 2048674973,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-24",
+    "date:cessation_upper": "2026-10-24",
     "date:inception_lower": "2026-10-24",
     "date:inception_upper": "2026-10-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-24",
+    "edtf:cessation": "2026-10-24T07:58:14Z",
+    "edtf:inception": "2026-10-24T02:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160637707"
+    },
     "wof:country": "US",
     "wof:created": 1792944467,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -94,7 +99,7 @@
       1947304481,
       1159286015
     ],
-    "wof:lastmodified": 1792944467,
+    "wof:lastmodified": 1792945037,
     "wof:name": "UA367 (IAD-SFO)",
     "wof:parent_id": 1947304481,
     "wof:placetype": "custom",
