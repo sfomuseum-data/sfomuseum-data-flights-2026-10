@@ -2,10 +2,12 @@
   "id": 2048686147,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-25",
+    "date:cessation_upper": "2026-10-25",
     "date:inception_lower": "2026-10-25",
     "date:inception_upper": "2026-10-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-25",
+    "edtf:cessation": "2026-10-25T14:19:02Z",
+    "edtf:inception": "2026-10-25T12:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:base_flight_id": "20261025-D-AMX-4208",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N377DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160737772"
+    },
     "wof:country": "US",
     "wof:created": 1793031269,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048686147,
     "wof:involves": [
+      1159289411,
       102527363,
       102527513,
       1159284261,
       1763588251,
       1159283539
     ],
-    "wof:lastmodified": 1793031269,
+    "wof:lastmodified": 1793031691,
     "wof:name": "DL1331 (SFO-SLC)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

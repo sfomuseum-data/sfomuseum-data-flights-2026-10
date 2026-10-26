@@ -2,10 +2,12 @@
   "id": 2048683423,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-25",
+    "date:cessation_upper": "2026-10-25",
     "date:inception_lower": "2026-10-25",
     "date:inception_upper": "2026-10-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-25",
+    "edtf:cessation": "2026-10-25T06:00:45-07:00",
+    "edtf:inception": "2026-10-25T19:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261025-A-ANZ-9283",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N28457",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160768473"
+    },
     "wof:country": "US",
     "wof:created": 1793030960,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -92,9 +104,10 @@
       102533795,
       1159285413,
       1947304523,
-      1159283697
+      1159283697,
+      1377564285
     ],
-    "wof:lastmodified": 1793030960,
+    "wof:lastmodified": 1793031647,
     "wof:name": "UA2831 (LAX-SFO)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

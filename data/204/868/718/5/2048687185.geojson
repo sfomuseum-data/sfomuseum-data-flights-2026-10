@@ -2,10 +2,12 @@
   "id": 2048687185,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-26",
+    "date:cessation_upper": "2026-10-26",
     "date:inception_lower": "2026-10-25",
     "date:inception_upper": "2026-10-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-25",
+    "edtf:cessation": "2026-10-26T00:15:38Z",
+    "edtf:inception": "2026-10-25T20:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.180931,
     "geom:longitude": -106.3692875,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 1746879059,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8607M",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160809344"
+    },
     "wof:country": "US",
     "wof:created": 1793031389,
     "wof:geomhash": "17371a5d27e54a99ca50752d2b6a5e79",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048687185,
     "wof:involves": [
-      1746879059,
-      102527513,
       1159285591,
-      1947304599
+      1947304599,
+      1159289871,
+      1746879059,
+      102527513
     ],
-    "wof:lastmodified": 1793031389,
+    "wof:lastmodified": 1793031700,
     "wof:name": "WN232 (SFO-STL)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",
