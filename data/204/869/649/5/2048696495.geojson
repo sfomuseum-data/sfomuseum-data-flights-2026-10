@@ -2,10 +2,12 @@
   "id": 2048696495,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-26",
+    "date:cessation_upper": "2026-10-26",
     "date:inception_lower": "2026-10-26",
     "date:inception_upper": "2026-10-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-26",
+    "edtf:cessation": "2026-10-26T03:29:33Z",
+    "edtf:inception": "2026-10-26T02:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160802127"
+    },
     "wof:country": "US",
     "wof:created": 1793117831,
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
@@ -94,7 +99,7 @@
       1947304149,
       1159283597
     ],
-    "wof:lastmodified": 1793117831,
+    "wof:lastmodified": 1793118056,
     "wof:name": "UA1780 (SFO-ONT)",
     "wof:parent_id": 1947304149,
     "wof:placetype": "custom",

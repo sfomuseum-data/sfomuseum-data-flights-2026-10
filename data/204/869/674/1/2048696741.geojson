@@ -2,10 +2,12 @@
   "id": 2048696741,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-26",
-    "date:inception_upper": "2026-10-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-26",
+    "date:cessation_lower": "2026-10-27",
+    "date:cessation_upper": "2026-10-27",
+    "date:inception_lower": "2026-10-27",
+    "date:inception_upper": "2026-10-27",
+    "edtf:cessation": "2026-10-27T09:41:20Z",
+    "edtf:inception": "2026-10-27T07:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.419084999999995,
     "geom:longitude": -112.0399525,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620818,
     "lbl:longitude": -122.389182,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102529249,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N78008",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160839789"
+    },
     "wof:country": "US",
     "wof:created": 1793117860,
     "wof:geomhash": "749696abda6afece8bfb20d9b4325da6",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048696741,
     "wof:involves": [
-      102529249,
-      102527513,
       1159285413,
-      1947304455
+      1947304455,
+      1159289985,
+      102529249,
+      102527513
     ],
-    "wof:lastmodified": 1793117860,
+    "wof:lastmodified": 1793118059,
     "wof:name": "UA3870 (SFO-AMA)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

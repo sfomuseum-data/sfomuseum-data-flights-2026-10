@@ -2,10 +2,12 @@
   "id": 2048695609,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-26",
+    "date:cessation_upper": "2026-10-26",
     "date:inception_lower": "2026-10-26",
     "date:inception_upper": "2026-10-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-26",
+    "edtf:cessation": "2026-10-26T23:44:58Z",
+    "edtf:inception": "2026-10-26T18:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160848001"
+    },
     "wof:country": "US",
     "wof:created": 1793117726,
     "wof:geomhash": "2155b19e54308f477f2a379762b2f6c8",
@@ -94,7 +102,7 @@
       1947304297,
       1779770723
     ],
-    "wof:lastmodified": 1793117726,
+    "wof:lastmodified": 1793118046,
     "wof:name": "B6378 (SFO-FLL)",
     "wof:parent_id": 1947304297,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048696223,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-26",
+    "date:cessation_upper": "2026-10-26",
     "date:inception_lower": "2026-10-26",
     "date:inception_upper": "2026-10-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-26",
+    "edtf:cessation": "2026-10-26T15:35:53Z",
+    "edtf:inception": "2026-10-26T00:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "EK",
     "flysfo:date": "2026-10-26",
@@ -48,6 +50,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160858125"
+    },
     "wof:country": "US",
     "wof:created": 1793117799,
     "wof:geomhash": "db1125d5f6b158d369f65fa73fc455da",
@@ -88,7 +93,7 @@
       1159284333,
       1947304085
     ],
-    "wof:lastmodified": 1793117799,
+    "wof:lastmodified": 1793118053,
     "wof:name": "EK226 (SFO-DXB)",
     "wof:parent_id": 1947304085,
     "wof:placetype": "custom",

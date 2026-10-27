@@ -2,10 +2,12 @@
   "id": 2048692435,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-27",
+    "date:cessation_upper": "2026-10-27",
     "date:inception_lower": "2026-10-26",
     "date:inception_upper": "2026-10-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-26",
+    "edtf:cessation": "2026-10-27T02:10:29Z",
+    "edtf:inception": "2026-10-26T21:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160863218"
+    },
     "wof:country": "US",
     "wof:created": 1793117361,
     "wof:geomhash": "1bce6af8a92006379b4194e1695731d3",
@@ -94,7 +102,7 @@
       1947304607,
       1159283697
     ],
-    "wof:lastmodified": 1793117361,
+    "wof:lastmodified": 1793118021,
     "wof:name": "UA436 (PIT-SFO)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",
