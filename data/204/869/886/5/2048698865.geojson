@@ -2,10 +2,12 @@
   "id": 2048698865,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-27",
-    "date:inception_upper": "2026-10-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-27",
+    "date:cessation_lower": "2026-10-28",
+    "date:cessation_upper": "2026-10-28",
+    "date:inception_lower": "2026-10-28",
+    "date:inception_upper": "2026-10-28",
+    "edtf:cessation": "2026-10-28T05:26:52Z",
+    "edtf:inception": "2026-10-28T00:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "160875733"
+    },
     "wof:country": "US",
     "wof:created": 1793203484,
     "wof:geomhash": "5fe9a4073f558f5d433cae4f846ab71e",
@@ -94,7 +102,7 @@
       1947304293,
       1159283849
     ],
-    "wof:lastmodified": 1793203484,
+    "wof:lastmodified": 1793204272,
     "wof:name": "AS369 (MCO-SFO)",
     "wof:parent_id": 1947304293,
     "wof:placetype": "custom",

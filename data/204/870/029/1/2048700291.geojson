@@ -2,10 +2,12 @@
   "id": 2048700291,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-27",
+    "date:cessation_upper": "2026-10-27",
     "date:inception_lower": "2026-10-27",
     "date:inception_upper": "2026-10-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-27",
+    "edtf:cessation": "2026-10-27T05:12:33-07:00",
+    "edtf:inception": "2026-10-27T15:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.9120825,
     "geom:longitude": -110.006986,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102521851,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N923WN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143269407"
+    },
     "wof:country": "US",
     "wof:created": 1793203644,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048700291,
     "wof:involves": [
+      1159289869,
       102527513,
       102521851,
       1159285591,
       1947304621
     ],
-    "wof:lastmodified": 1793203644,
+    "wof:lastmodified": 1793204322,
     "wof:name": "WN2548 (AUS-SFO)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",

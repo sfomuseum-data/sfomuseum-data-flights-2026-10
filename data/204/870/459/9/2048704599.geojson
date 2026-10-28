@@ -2,10 +2,12 @@
   "id": 2048704599,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-27",
+    "date:cessation_upper": "2026-10-27",
     "date:inception_lower": "2026-10-27",
     "date:inception_upper": "2026-10-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-27",
+    "edtf:cessation": "2026-10-27T21:21:36Z",
+    "edtf:inception": "2026-10-27T20:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143297805"
+    },
     "wof:country": "US",
     "wof:created": 1793204120,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -94,7 +102,7 @@
       1947304495,
       1159283597
     ],
-    "wof:lastmodified": 1793204120,
+    "wof:lastmodified": 1793204385,
     "wof:name": "UA2603 (SFO-SLC)",
     "wof:parent_id": 1947304495,
     "wof:placetype": "custom",
