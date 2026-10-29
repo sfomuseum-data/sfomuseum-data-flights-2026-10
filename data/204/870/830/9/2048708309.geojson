@@ -2,10 +2,12 @@
   "id": 2048708309,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-28",
+    "date:cessation_upper": "2026-10-28",
     "date:inception_lower": "2026-10-28",
     "date:inception_upper": "2026-10-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-28",
+    "edtf:cessation": "2026-10-28T05:48:16-07:00",
+    "edtf:inception": "2026-10-28T18:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616987,
     "lbl:longitude": -122.382479,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528997,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N8668A",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143375896"
+    },
     "wof:country": "US",
     "wof:created": 1793290071,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048708309,
     "wof:involves": [
+      1159289871,
       102527513,
       102528997,
       1159285591,
       1947304625
     ],
-    "wof:lastmodified": 1793290071,
+    "wof:lastmodified": 1793290856,
     "wof:name": "WN378 (SAN-SFO)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

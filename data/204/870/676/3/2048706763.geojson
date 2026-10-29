@@ -2,10 +2,12 @@
   "id": 2048706763,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-28",
+    "date:cessation_upper": "2026-10-28",
     "date:inception_lower": "2026-10-28",
     "date:inception_upper": "2026-10-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-28",
+    "edtf:cessation": "2026-10-28T03:58:47Z",
+    "edtf:inception": "2026-10-28T02:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143327158"
+    },
     "wof:country": "US",
     "wof:created": 1793289878,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -94,7 +102,7 @@
       1947304267,
       1159283849
     ],
-    "wof:lastmodified": 1793289878,
+    "wof:lastmodified": 1793290827,
     "wof:name": "AS697 (PDX-SFO)",
     "wof:parent_id": 1947304267,
     "wof:placetype": "custom",

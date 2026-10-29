@@ -2,10 +2,12 @@
   "id": 2048712321,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-28",
+    "date:cessation_upper": "2026-10-28",
     "date:inception_lower": "2026-10-28",
     "date:inception_upper": "2026-10-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-28",
+    "edtf:cessation": "2026-10-28T22:53:59Z",
+    "edtf:inception": "2026-10-28T20:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-10-28",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143388840"
+    },
     "wof:country": "US",
     "wof:created": 1793290542,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -88,7 +96,7 @@
       1159285591,
       1947304625
     ],
-    "wof:lastmodified": 1793290542,
+    "wof:lastmodified": 1793290942,
     "wof:name": "WN4294 (SFO-DEN)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

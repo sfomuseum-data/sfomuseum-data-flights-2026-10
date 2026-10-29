@@ -2,10 +2,12 @@
   "id": 2048712883,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-28",
+    "date:cessation_upper": "2026-10-28",
     "date:inception_lower": "2026-10-28",
     "date:inception_upper": "2026-10-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-28",
+    "edtf:cessation": "2026-10-28T23:04:56Z",
+    "edtf:inception": "2026-10-28T21:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143392912"
+    },
     "wof:country": "US",
     "wof:created": 1793290608,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -94,7 +102,7 @@
       1947304519,
       1159283605
     ],
-    "wof:lastmodified": 1793290608,
+    "wof:lastmodified": 1793290948,
     "wof:name": "UA433 (SFO-SEA)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",

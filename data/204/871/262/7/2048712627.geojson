@@ -2,10 +2,12 @@
   "id": 2048712627,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-28",
-    "date:inception_upper": "2026-10-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-28",
+    "date:cessation_lower": "2026-10-29",
+    "date:cessation_upper": "2026-10-29",
+    "date:inception_lower": "2026-10-29",
+    "date:inception_upper": "2026-10-29",
+    "edtf:cessation": "2026-10-29T08:48:00Z",
+    "edtf:inception": "2026-10-29T04:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143331811"
+    },
     "wof:country": "US",
     "wof:created": 1793290578,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -94,7 +102,7 @@
       1947304523,
       1159283605
     ],
-    "wof:lastmodified": 1793290578,
+    "wof:lastmodified": 1793290944,
     "wof:name": "UA1603 (SFO-ATL)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

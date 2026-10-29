@@ -2,10 +2,12 @@
   "id": 2048711295,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-28",
+    "date:cessation_upper": "2026-10-28",
     "date:inception_lower": "2026-10-28",
     "date:inception_upper": "2026-10-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-28",
+    "edtf:cessation": "2026-10-28T22:00:37Z",
+    "edtf:inception": "2026-10-28T07:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CZ",
     "flysfo:date": "2026-10-28",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143333522"
+    },
     "wof:country": "US",
     "wof:created": 1793290423,
     "wof:geomhash": "c46dd454257f76c15a9276e2946c6f54",
@@ -88,7 +96,7 @@
       1159284165,
       1947304075
     ],
-    "wof:lastmodified": 1793290423,
+    "wof:lastmodified": 1793290912,
     "wof:name": "CZ658 (SFO-CAN)",
     "wof:parent_id": 1947304075,
     "wof:placetype": "custom",

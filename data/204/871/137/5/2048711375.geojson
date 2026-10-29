@@ -2,10 +2,12 @@
   "id": 2048711375,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-10-28",
-    "date:inception_upper": "2026-10-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-28",
+    "date:cessation_lower": "2026-10-29",
+    "date:cessation_upper": "2026-10-29",
+    "date:inception_lower": "2026-10-29",
+    "date:inception_upper": "2026-10-29",
+    "edtf:cessation": "2026-10-29T04:22:21Z",
+    "edtf:inception": "2026-10-29T01:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-10-28",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143324132"
+    },
     "wof:country": "US",
     "wof:created": 1793290432,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -88,7 +96,7 @@
       1159284261,
       1947304669
     ],
-    "wof:lastmodified": 1793290432,
+    "wof:lastmodified": 1793290913,
     "wof:name": "DL756 (SFO-MSP)",
     "wof:parent_id": 1947304669,
     "wof:placetype": "custom",
