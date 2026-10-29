@@ -1,0 +1,72 @@
+{
+  "id": 2048706101,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-10-28",
+    "date:inception_upper": "2026-10-28",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-10-28",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AI",
+    "flysfo:date": "2026-10-28",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AI173",
+    "flysfo:gate": "",
+    "flysfo:journey": "DEL-SFO",
+    "flysfo:scheduled_timestamp": 1793196000,
+    "flysfo:timestamp": 1793196000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,28.561954,77.098117,37.617990",
+    "geom:latitude": 33.089972,
+    "geom:longitude": -22.636412999999997,
+    "iata:airline": "AI",
+    "icao:airline": "AIC",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283649,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102555709,
+    "sfomuseum:flight_id": "20261028-A-AIC-173",
+    "sfomuseum:flight_number": [
+      "AIC173",
+      "AI173"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1793289797,
+    "wof:geomhash": "c9618692327b148a3f9466df78845400",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048706101,
+        "flight_id": 2048706101
+      }
+    ],
+    "wof:id": 2048706101,
+    "wof:involves": [
+      102527513,
+      102555709,
+      1159283649,
+      -1
+    ],
+    "wof:lastmodified": 1793289797,
+    "wof:name": "AI173 (DEL-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-10",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    28.561954,
+    77.098117,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[77.098117,28.561954],[-122.370943,37.61799]]}
+}
