@@ -2,10 +2,12 @@
   "id": 2048721721,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-30",
+    "date:cessation_upper": "2026-10-30",
     "date:inception_lower": "2026-10-29",
     "date:inception_upper": "2026-10-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-29",
+    "edtf:cessation": "2026-10-30T01:00:59Z",
+    "edtf:inception": "2026-10-29T21:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143482218"
+    },
     "wof:country": "US",
     "wof:created": 1793377059,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -94,7 +102,7 @@
       1947304455,
       1159283875
     ],
-    "wof:lastmodified": 1793377059,
+    "wof:lastmodified": 1793377253,
     "wof:name": "UA2831 (SFO-IAH)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

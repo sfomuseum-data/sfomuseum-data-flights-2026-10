@@ -2,10 +2,12 @@
   "id": 2048716239,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-29",
+    "date:cessation_upper": "2026-10-29",
     "date:inception_lower": "2026-10-29",
     "date:inception_upper": "2026-10-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-29",
+    "edtf:cessation": "2026-10-29T02:00:58-07:00",
+    "edtf:inception": "2026-10-29T10:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "JBU",
     "icao:base_airline": "ICE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261029-A-ICE-7890",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2165J",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143422909"
+    },
     "wof:country": "US",
     "wof:created": 1793376416,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -92,9 +104,10 @@
       102534365,
       1159284583,
       1947304315,
-      1159284513
+      1159284513,
+      1377564297
     ],
-    "wof:lastmodified": 1793376416,
+    "wof:lastmodified": 1793377196,
     "wof:name": "B6115 (JFK-SFO)",
     "wof:parent_id": 1947304315,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048713729,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-29",
+    "date:cessation_upper": "2026-10-29",
     "date:inception_lower": "2026-10-29",
     "date:inception_upper": "2026-10-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-29",
+    "edtf:cessation": "2026-10-29T18:04:17Z",
+    "edtf:inception": "2026-10-29T12:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-10-29",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143430528"
+    },
     "wof:country": "US",
     "wof:created": 1793376097,
     "wof:geomhash": "70ecaf1bff2da3af9ba52c9bde5534af",
@@ -88,7 +96,7 @@
       1159283849,
       1947304277
     ],
-    "wof:lastmodified": 1793376097,
+    "wof:lastmodified": 1793377177,
     "wof:name": "AA1524 (PHL-SFO)",
     "wof:parent_id": 1947304277,
     "wof:placetype": "custom",

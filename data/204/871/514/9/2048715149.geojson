@@ -2,10 +2,12 @@
   "id": 2048715149,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-29",
+    "date:cessation_upper": "2026-10-29",
     "date:inception_lower": "2026-10-29",
     "date:inception_upper": "2026-10-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-29",
+    "edtf:cessation": "2026-10-29T23:46:09Z",
+    "edtf:inception": "2026-10-29T22:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143488256"
+    },
     "wof:country": "US",
     "wof:created": 1793376285,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -94,7 +102,7 @@
       1947304275,
       1159283747
     ],
-    "wof:lastmodified": 1793376285,
+    "wof:lastmodified": 1793377189,
     "wof:name": "AS91 (LAX-SFO)",
     "wof:parent_id": 1947304275,
     "wof:placetype": "custom",

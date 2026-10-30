@@ -2,10 +2,12 @@
   "id": 2048721699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-30",
+    "date:cessation_upper": "2026-10-30",
     "date:inception_lower": "2026-10-29",
     "date:inception_upper": "2026-10-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-29",
+    "edtf:cessation": "2026-10-30T00:58:19Z",
+    "edtf:inception": "2026-10-29T20:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-29",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143470845"
+    },
     "wof:country": "US",
     "wof:created": 1793377056,
     "wof:geomhash": "faeea62a404843145345d63bcb6a7990",
@@ -88,7 +96,7 @@
       1159285413,
       1947304517
     ],
-    "wof:lastmodified": 1793377056,
+    "wof:lastmodified": 1793377252,
     "wof:name": "UA2661 (SFO-RSW)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",
