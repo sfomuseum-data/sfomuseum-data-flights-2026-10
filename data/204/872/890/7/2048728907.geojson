@@ -2,10 +2,12 @@
   "id": 2048728907,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-30",
+    "date:cessation_upper": "2026-10-30",
     "date:inception_lower": "2026-10-30",
     "date:inception_upper": "2026-10-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-30",
+    "edtf:cessation": "2026-10-30T22:02:46Z",
+    "edtf:inception": "2026-10-30T08:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CZ",
     "flysfo:date": "2026-10-30",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143509482"
+    },
     "wof:country": "US",
     "wof:created": 1793463239,
     "wof:geomhash": "45e7108794d81a2dcecee3acf14ea6a4",
@@ -88,7 +96,7 @@
       1159284165,
       1947304087
     ],
-    "wof:lastmodified": 1793463239,
+    "wof:lastmodified": 1793463631,
     "wof:name": "CZ660 (SFO-WUH)",
     "wof:parent_id": 1947304087,
     "wof:placetype": "custom",

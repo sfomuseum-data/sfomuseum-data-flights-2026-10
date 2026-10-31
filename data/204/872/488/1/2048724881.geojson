@@ -2,10 +2,12 @@
   "id": 2048724881,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-30",
+    "date:cessation_upper": "2026-10-30",
     "date:inception_lower": "2026-10-30",
     "date:inception_upper": "2026-10-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-30",
+    "edtf:cessation": "2026-10-30T23:21:40Z",
+    "edtf:inception": "2026-10-30T21:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143568791"
+    },
     "wof:country": "US",
     "wof:created": 1793462780,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -94,7 +102,7 @@
       1947304273,
       1360700749
     ],
-    "wof:lastmodified": 1793462780,
+    "wof:lastmodified": 1793463572,
     "wof:name": "F91191 (PHX-SFO)",
     "wof:parent_id": 1947304273,
     "wof:placetype": "custom",

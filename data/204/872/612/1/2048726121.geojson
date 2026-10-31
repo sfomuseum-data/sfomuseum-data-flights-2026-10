@@ -2,10 +2,12 @@
   "id": 2048726121,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-30",
+    "date:cessation_upper": "2026-10-30",
     "date:inception_lower": "2026-10-30",
     "date:inception_upper": "2026-10-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-30",
+    "edtf:cessation": "2026-10-30T22:24:23Z",
+    "edtf:inception": "2026-10-30T21:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.9389005,
     "geom:longitude": -121.76404,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.616825,
     "lbl:longitude": -122.381021,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530507,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37324",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143570639"
+    },
     "wof:country": "US",
     "wof:created": 1793462923,
     "wof:geomhash": "e570a09b358444cf621c068c13b8dbc0",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048726121,
     "wof:involves": [
+      1528104575,
       102527513,
       102530507,
       1159285413,
       1947304607
     ],
-    "wof:lastmodified": 1793462923,
+    "wof:lastmodified": 1793463583,
     "wof:name": "UA2262 (RDM-SFO)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

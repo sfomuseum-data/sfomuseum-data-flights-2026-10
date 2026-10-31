@@ -2,10 +2,12 @@
   "id": 2048730299,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-30",
+    "date:cessation_upper": "2026-10-30",
     "date:inception_lower": "2026-10-30",
     "date:inception_upper": "2026-10-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-30",
+    "edtf:cessation": "2026-10-30T09:23:40Z",
+    "edtf:inception": "2026-10-30T05:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143508129"
+    },
     "wof:country": "US",
     "wof:created": 1793463396,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -94,7 +99,7 @@
       1947304623,
       1159283697
     ],
-    "wof:lastmodified": 1793463396,
+    "wof:lastmodified": 1793463643,
     "wof:name": "UA1603 (SFO-ATL)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

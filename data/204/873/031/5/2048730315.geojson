@@ -2,10 +2,12 @@
   "id": 2048730315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-30",
+    "date:cessation_upper": "2026-10-30",
     "date:inception_lower": "2026-10-30",
     "date:inception_upper": "2026-10-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-30",
+    "edtf:cessation": "2026-10-30T11:47:33Z",
+    "edtf:inception": "2026-10-30T06:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143510705"
+    },
     "wof:country": "US",
     "wof:created": 1793463397,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -94,7 +99,7 @@
       1947304473,
       1159283697
     ],
-    "wof:lastmodified": 1793463397,
+    "wof:lastmodified": 1793463644,
     "wof:name": "UA1665 (SFO-BOS)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",

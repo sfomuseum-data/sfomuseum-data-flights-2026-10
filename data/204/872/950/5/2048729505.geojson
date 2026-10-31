@@ -2,10 +2,12 @@
   "id": 2048729505,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-30",
+    "date:cessation_upper": "2026-10-30",
     "date:inception_lower": "2026-10-30",
     "date:inception_upper": "2026-10-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-30",
+    "edtf:cessation": "2026-10-30T11:06:49Z",
+    "edtf:inception": "2026-10-30T06:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143510579"
+    },
     "wof:country": "US",
     "wof:created": 1793463306,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -94,7 +99,7 @@
       1947304315,
       1159285587
     ],
-    "wof:lastmodified": 1793463306,
+    "wof:lastmodified": 1793463637,
     "wof:name": "B6616 (SFO-JFK)",
     "wof:parent_id": 1947304315,
     "wof:placetype": "custom",
