@@ -2,10 +2,12 @@
   "id": 2048738505,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-31",
+    "date:cessation_upper": "2026-10-31",
     "date:inception_lower": "2026-10-31",
     "date:inception_upper": "2026-10-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-31",
+    "edtf:cessation": "2026-10-31T23:12:16Z",
+    "edtf:inception": "2026-10-31T21:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-31",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17564",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "143707345"
+    },
     "wof:country": "US",
     "wof:created": 1793549740,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048738505,
     "wof:involves": [
-      102531189,
-      102527513,
       1159285413,
-      -1
+      1528104577,
+      102531189,
+      102527513
     ],
-    "wof:lastmodified": 1793549740,
+    "wof:lastmodified": 1793551420,
     "wof:name": "UA3916 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

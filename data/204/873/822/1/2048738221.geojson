@@ -2,10 +2,12 @@
   "id": 2048738221,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-31",
+    "date:cessation_upper": "2026-10-31",
     "date:inception_lower": "2026-10-31",
     "date:inception_upper": "2026-10-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-31",
+    "edtf:cessation": "2026-10-31T19:18:39Z",
+    "edtf:inception": "2026-10-31T18:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-31",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.427454999999995,
     "geom:longitude": -121.5070865,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527351,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N853UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143635947"
+    },
     "wof:country": "US",
     "wof:created": 1793549708,
     "wof:geomhash": "6ee4dc6f06435306541ac2ffbe1ad823",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048738221,
     "wof:involves": [
+      1159289407,
       102527351,
       102527513,
       1159285413,
       1947304623
     ],
-    "wof:lastmodified": 1793549708,
+    "wof:lastmodified": 1793551243,
     "wof:name": "UA1498 (SFO-SBP)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

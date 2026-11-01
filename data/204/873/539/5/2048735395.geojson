@@ -2,10 +2,12 @@
   "id": 2048735395,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-31",
+    "date:cessation_upper": "2026-10-31",
     "date:inception_lower": "2026-10-31",
     "date:inception_upper": "2026-10-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-31",
+    "edtf:cessation": "2026-10-31T10:12:17Z",
+    "edtf:inception": "2026-10-31T07:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,7 +41,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "143599634"
+    },
     "wof:country": "US",
     "wof:created": 1793549391,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -57,7 +65,7 @@
       -1,
       1159284021
     ],
-    "wof:lastmodified": 1793549391,
+    "wof:lastmodified": 1793550628,
     "wof:name": "AA2111 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

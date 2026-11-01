@@ -2,10 +2,12 @@
   "id": 2048737047,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-31",
+    "date:cessation_upper": "2026-10-31",
     "date:inception_lower": "2026-10-31",
     "date:inception_upper": "2026-10-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-31",
+    "edtf:cessation": "2026-10-31T18:06:01Z",
+    "edtf:inception": "2026-10-31T17:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.4573115,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102530901,
     "sfomuseum:base_flight_id": "20261031-D-AMX-3632",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N330DU",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143685799"
+    },
     "wof:country": "US",
     "wof:created": 1793549577,
     "wof:geomhash": "5c2fa9986c46832326adcf943a9eaa09",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048737047,
     "wof:involves": [
+      1947304673,
+      1159283539,
+      1813375783,
       102530901,
       102527513,
-      1159284261,
-      1947304673,
-      1159283539
+      1159284261
     ],
-    "wof:lastmodified": 1793549577,
+    "wof:lastmodified": 1793551220,
     "wof:name": "DL2721 (SFO-YKM)",
     "wof:parent_id": 1947304673,
     "wof:placetype": "custom",

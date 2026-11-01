@@ -2,10 +2,12 @@
   "id": 2048738755,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-31",
+    "date:cessation_upper": "2026-10-31",
     "date:inception_lower": "2026-10-31",
     "date:inception_upper": "2026-10-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-10-31",
+    "edtf:cessation": "2026-10-31T05:02:00Z",
+    "edtf:inception": "2026-10-31T03:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-10-31",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N48127",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "143667359"
+    },
     "wof:country": "US",
     "wof:created": 1793549769,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048738755,
     "wof:involves": [
+      1159289939,
       102530741,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1793549769,
+    "wof:lastmodified": 1793551571,
     "wof:name": "UA8172 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
